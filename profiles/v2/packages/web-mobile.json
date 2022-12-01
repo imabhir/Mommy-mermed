@@ -1,0 +1,19 @@
+{
+  "common": {
+    "outputName": "web-mobile",
+    "polyfills": {
+      "asyncFunctions": true
+    },
+    "mainBundleCompressionType": "merge_dep",
+    "platform": "web-mobile",
+    "scenes": [
+      {
+        "url": "db://assets/Gameplay.scene",
+        "uuid": "c67aa23b-638d-4598-adcf-eb726c5e4928",
+        "inBundle": false
+      }
+    ],
+    "debug": true,
+    "replaceSplashScreen": true
+  }
+}

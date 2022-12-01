@@ -1,0 +1,32 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "levelData",
+  "_objFlags": 0,
+  "_native": "",
+  "json": {
+    "name": "Just a basic blue print",
+    "Description ": "Puzzle game ",
+    "data": [
+      {
+        "lvl": 1,
+        "NumOfSlice": 3,
+        "NameOfFolder": "FirstImage"
+      },
+      {
+        "lvl": 2,
+        "NumOfSlice": 4,
+        "NameOfFolder": "SecondImage"
+      },
+      {
+        "lvl": 3,
+        "NumOfSlice": 5,
+        "NameOfFolder": "ThirdImage"
+      },
+      {
+        "lvl": 4,
+        "NumOfSlice": 7,
+        "NameOfFolder": "FourthImage"
+      }
+    ]
+  }
+}

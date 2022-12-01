@@ -1,0 +1,1474 @@
+{
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Prefabs": {
+    "time": 1669879410742.1338,
+    "uuid": "8d674ed3-6362-4649-8b02-56e07fb48e88",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Scripts": {
+    "time": 1669870949315.7756,
+    "uuid": "be467357-23f2-4f57-a12b-af94516a8df8",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Textture": {
+    "time": 1669813210000,
+    "uuid": "0527c571-03d0-4a87-8322-32588553c816",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/gamePlayImages": {
+    "time": 1669879650679.7903,
+    "uuid": "d8bfc477-86b6-464d-8377-029ae7ab2139",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources": {
+    "time": 1669881975067.514,
+    "uuid": "3a9716f6-7bfb-47e9-ac5f-bf24d6ade326",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Images": {
+    "time": 1669882040233.423,
+    "uuid": "dd3740e8-8b18-41e4-83b3-042834eb5deb",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Json": {
+    "time": 1669813210000,
+    "uuid": "d2bd40dc-5834-4037-8b3e-7af6b93729a3",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/arco": {
+    "time": 1669813210000,
+    "uuid": "1c9e901a-68aa-45b4-9df7-280838a3998b",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/backGround": {
+    "time": 1669813210000,
+    "uuid": "759a669a-7416-460b-8f6b-842aef56047e",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/landing": {
+    "time": 1669869514265.669,
+    "uuid": "a0ef19da-6d8f-4957-9096-593fd9f0df55",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Scripts/Audio.ts": {
+    "time": 1669813210000,
+    "uuid": "6a8f40a3-b13b-4e51-aa56-cc82edf81816",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Scripts/FitSprite.ts": {
+    "time": 1669813210000,
+    "uuid": "5054825c-5d30-491b-a68c-95c6ea574044",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Scripts/GamePlay.ts": {
+    "time": 1669877555305.3008,
+    "uuid": "fcf2f319-1d02-40d7-b64e-a005f85650e0",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Scripts/SingleTon.ts": {
+    "time": 1669874513405.5469,
+    "uuid": "7ab67661-9e11-4306-949f-ad2910badf3a",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Scripts/glowing.ts": {
+    "time": 1669813210000,
+    "uuid": "6bc1cddb-ca61-48fd-b6d8-9f05f5ef016d",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Scripts/imageLoad.ts": {
+    "time": 1669813210000,
+    "uuid": "43e55812-e379-4cd1-8b5d-12e153a75f5e",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Scripts/photoSlice2.ts": {
+    "time": 1669881422954.9355,
+    "uuid": "b3504497-51e1-4b44-81d5-cd30f037a8cc",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Scripts/resourceLoader.ts": {
+    "time": 1669881247519.6711,
+    "uuid": "86341792-a74d-4d16-bb24-4141b248e199",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Prefabs.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Scripts.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Textture.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/gamePlayImages.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Images.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Json.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/arco.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/backGround.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/landing.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Scripts/Audio.ts.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Scripts/FitSprite.ts.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Scripts/GamePlay.ts.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Scripts/SingleTon.ts.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Scripts/glowing.ts.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Scripts/imageLoad.ts.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Scripts/photoSlice2.ts.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Scripts/resourceLoader.ts.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Gameplay.scene": {
+    "time": 1669882777031.6921,
+    "uuid": "c67aa23b-638d-4598-adcf-eb726c5e4928",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Gameplay.scene.zip": {
+    "time": 1669813210000,
+    "uuid": "8483966f-2cc5-4c85-a1ce-1aa9d5baea0f",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Prefabs.meta 2": {
+    "time": 1669813210000,
+    "uuid": "843d02ec-f52f-4be3-9896-6fc9b906ca31",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Scripts.meta 2": {
+    "time": 1669813210000,
+    "uuid": "1a8125d1-6543-4302-9f91-749610e5a907",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/glow.anim": {
+    "time": 1669813210000,
+    "uuid": "4927aa14-33a4-416d-8af8-12a7c28fecef",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/imageGlow.scene": {
+    "time": 1669813210000,
+    "uuid": "aadaa7d8-ae8d-4c91-a06c-bd2f707ef8a1",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/node.prefab": {
+    "time": 1669813210000,
+    "uuid": "4775fe9e-a8ea-4fa8-a5e0-681e25461d64",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/scene.scene": {
+    "time": 1669813210000,
+    "uuid": "83a2d6db-0bd1-472b-a51e-ad616142abc1",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Prefabs/ImageSlicer.prefab": {
+    "time": 1669879426893.6692,
+    "uuid": "23518c5e-a0cf-49c1-9f34-c146d71b040b",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Prefabs/Scrolling.prefab": {
+    "time": 1669813210000,
+    "uuid": "2c7a8d15-785e-4d61-92bc-dc22855c9d9a",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Prefabs/backGround.prefab": {
+    "time": 1669813210000,
+    "uuid": "05d0e726-2a6c-418a-ae90-59d270ac3ebb",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Prefabs/mySprite.prefab": {
+    "time": 1669813210000,
+    "uuid": "fe1c2636-d76e-4864-b0a5-735cbf8b0a94",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Prefabs/picture.prefab": {
+    "time": 1669813210000,
+    "uuid": "23c06ee1-65c8-4c4f-ba4c-a7b5fb24c066",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Textture/bg.jpeg": {
+    "time": 1669813210000,
+    "uuid": "1cd26629-252e-401c-b8d3-edf20dc97d95",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/gamePlayImages/backButton.png": {
+    "time": 1669813210000,
+    "uuid": "fdaee96a-604a-42a3-ba0c-3f061c8f60b6",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/gamePlayImages/frame.png": {
+    "time": 1669813210000,
+    "uuid": "5678d63b-0cbe-4f0e-9e88-160d79cabc43",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/gamePlayImages/nextButton.png": {
+    "time": 1669813210000,
+    "uuid": "ec6d6161-9c5c-4033-8a55-41b4939f1c03",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/gamePlayImages/restartButton.png": {
+    "time": 1669813210000,
+    "uuid": "a667607e-da66-4733-a98c-08dbd164b905",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/gamePlayImages/scorePanel.png": {
+    "time": 1669813210000,
+    "uuid": "a008e933-384a-43ed-986e-bfd10b22c35e",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/gamePlayImages/settingsButton.png": {
+    "time": 1669813210000,
+    "uuid": "afbfcc30-81c6-4ad0-a90e-9d174dee7bba",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/gamePlayImages/whiteBg.jpeg": {
+    "time": 1669813210000,
+    "uuid": "2a533f9d-ccc3-4078-bbbe-1c70f07e39f3",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Images/baby0.png": {
+    "time": 1669813210000,
+    "uuid": "2e3e4c55-4a1a-4086-b65d-d41dc45f1f30",
+    "missing": true
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Images/baby0.prefab": {
+    "time": 1669813210000,
+    "uuid": "7cf3288a-a63b-4e8b-96c8-e448b193e497",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Images/baby1.png": {
+    "time": 1669813210000,
+    "uuid": "ceed1bea-c5d3-4edb-93d8-2db32c314dde",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Images/baby2.png": {
+    "time": 1669813210000,
+    "uuid": "372791f8-19c6-48e6-924b-1c7e1f50c3ea",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Images/baby3.png": {
+    "time": 1669813210000,
+    "uuid": "22582fda-47ee-4328-886b-c797e368b90b",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Images/baby4.png": {
+    "time": 1669813210000,
+    "uuid": "f0fa04a7-1c49-49f2-9584-fece79191497",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Images/babyMermaid0.png": {
+    "time": 1669813210000,
+    "uuid": "9ed03934-2827-425d-a5e5-19057ac3ba2d",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Images/babyMermaid1.png": {
+    "time": 1669813210000,
+    "uuid": "659ea1b2-f156-4f1a-a6ca-bede9e432a8a",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Images/babyMermaid2.png": {
+    "time": 1669813210000,
+    "uuid": "37a28c35-521e-407c-ac4d-65ed00c27763",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Images/babyMermaid3.png": {
+    "time": 1669813210000,
+    "uuid": "82c3e526-4989-4a0a-8170-db624c563d20",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Images/babyMermaid4.png": {
+    "time": 1669813210000,
+    "uuid": "bed325c1-92ff-4c66-8874-a15680dbdb82",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Images/mermaid0.png": {
+    "time": 1669813210000,
+    "uuid": "778df69b-210c-4bbd-9820-82cd389c251d",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Images/mermaidMom0.png": {
+    "time": 1669813210000,
+    "uuid": "a841db8f-11bc-413a-9734-a61bd28c4ef4",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Images/mermaidMom1.png": {
+    "time": 1669813210000,
+    "uuid": "79e63b2c-dad8-4e45-af32-636d4a47084d",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Images/mermaidMom2.png": {
+    "time": 1669813210000,
+    "uuid": "955b2a23-1d13-4539-9265-c7c643f75a36",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Images/mermaidMom3.png": {
+    "time": 1669813210000,
+    "uuid": "7d896f3d-55e7-42ab-8076-775df7b33660",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Images/mermaidMom4.png": {
+    "time": 1669813210000,
+    "uuid": "14089679-1298-43b0-8764-068fc402715e",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Images/mom0.png": {
+    "time": 1669813210000,
+    "uuid": "c1f497e2-09c8-420c-b899-d57be6324c0a",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Images/mom1.png": {
+    "time": 1669813210000,
+    "uuid": "46bcb68f-c417-4c49-a3de-a901c8cb0115",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Images/mom2.png": {
+    "time": 1669813210000,
+    "uuid": "f312952a-2139-4b94-9417-da33159ef2a3",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Images/mom3.png": {
+    "time": 1669813210000,
+    "uuid": "a7275de5-600a-41f3-8ba6-3114858a7902",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Images/mom4.png": {
+    "time": 1669813210000,
+    "uuid": "cf2a4751-305c-4ead-b2aa-53efafb65dd1",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Json/levelData.json": {
+    "time": 1669813210000,
+    "uuid": "0ec75895-eb94-48cc-8745-1f6a3c22fa09",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/arco/ARCO for OSX.otf": {
+    "time": 1669813210000,
+    "uuid": "8fa7bac1-966e-4e63-b972-c24c7873f021",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/arco/ARCO.ttf": {
+    "time": 1669813210000,
+    "uuid": "6360ecb7-1c8a-46f5-8cb8-ee13f8028f84",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/backGround/backGround.jpeg": {
+    "time": 1669813210000,
+    "uuid": "e61edc04-6249-411a-90fd-31ccc06a73fd",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/backGround/back_pressed.png": {
+    "time": 1669813210000,
+    "uuid": "faa39952-62b7-4ab0-87ce-49d3f21fd613",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/backGround/background.png": {
+    "time": 1669813210000,
+    "uuid": "8a7f2e95-cb3f-4958-a5c6-ecef4ec6b837",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/landing/bottomRocks.png": {
+    "time": 1669813210000,
+    "uuid": "e3caab33-0f33-4556-8934-4ee0918fac1e",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/landing/gameBG.png": {
+    "time": 1669813210000,
+    "uuid": "fcc97927-1763-4a3e-8a2d-bb620a011c96",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/landing/logo.png": {
+    "time": 1669813210000,
+    "uuid": "e03c609f-978a-4d5d-9b57-80f3a7adeb1d",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/landing/splashScreen.png": {
+    "time": 1669813210000,
+    "uuid": "c4ff86df-51f6-4209-a25b-5460ebb9c3a6",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/landing/startGameButton.png": {
+    "time": 1669813210000,
+    "uuid": "4dcb69d5-cdea-46db-8689-c5859cbdce9c",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Gameplay.scene.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Scripts.meta 2.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/glow.anim.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Prefabs.meta 2.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Gameplay.scene.zip.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/imageGlow.scene.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/node.prefab.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/scene.scene.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Prefabs/Scrolling.prefab.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Prefabs/ImageSlicer.prefab.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Prefabs/backGround.prefab.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Prefabs/mySprite.prefab.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Prefabs/picture.prefab.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Textture/bg.jpeg.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/gamePlayImages/backButton.png.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/gamePlayImages/nextButton.png.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/gamePlayImages/frame.png.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/gamePlayImages/restartButton.png.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/gamePlayImages/scorePanel.png.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Images/baby0.prefab.meta": {
+    "time": 1669882005309.0127
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/gamePlayImages/whiteBg.jpeg.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/gamePlayImages/settingsButton.png.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Images/baby0.png.meta": {
+    "time": 1669882005335.9448
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Images/baby2.png.meta": {
+    "time": 1669882005354.0603
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Images/baby1.png.meta": {
+    "time": 1669882005333.7625
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Images/baby3.png.meta": {
+    "time": 1669882005335.3718
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Images/babyMermaid0.png.meta": {
+    "time": 1669882005393.1904
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Images/babyMermaid1.png.meta": {
+    "time": 1669882005390.0752
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Images/babyMermaid2.png.meta": {
+    "time": 1669882005422.4001
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Images/baby4.png.meta": {
+    "time": 1669882005389.4016
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Images/babyMermaid3.png.meta": {
+    "time": 1669882005453.3052
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Images/babyMermaid4.png.meta": {
+    "time": 1669882005454.4717
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Images/mermaidMom0.png.meta": {
+    "time": 1669882005455.4585
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Images/mermaid0.png.meta": {
+    "time": 1669882005476.5066
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Images/mermaidMom2.png.meta": {
+    "time": 1669882005498.2053
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Images/mermaidMom1.png.meta": {
+    "time": 1669882005497.634
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Images/mermaidMom3.png.meta": {
+    "time": 1669882005506.9631
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Images/mermaidMom4.png.meta": {
+    "time": 1669882005516.993
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Images/mom0.png.meta": {
+    "time": 1669882005527.4348
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Json/levelData.json.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Images/mom1.png.meta": {
+    "time": 1669882005544.3584
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/arco/ARCO for OSX.otf.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/arco/ARCO.ttf.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Images/mom2.png.meta": {
+    "time": 1669882005548.0999
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Images/mom3.png.meta": {
+    "time": 1669882005554.9268
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/backGround/background.png.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/backGround/back_pressed.png.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/backGround/backGround.jpeg.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/Images/mom4.png.meta": {
+    "time": 1669882005560.9395
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/landing/bottomRocks.png.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/landing/splashScreen.png.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/landing/logo.png.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/landing/startGameButton.png.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/landing/gameBG.png.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Scripts/Managers.meta": {
+    "time": 1669869507725.808
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Scripts/Managers": {
+    "time": 1669869507723.9172,
+    "uuid": "14e9c70c-1e5a-49b9-99bc-c56be428aa93",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Scripts/Managers/ResourceUtils.ts.meta": {
+    "time": 1669869507723.4304
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Scripts/Managers/ResourceUtils.ts": {
+    "time": 1669872384455.1033,
+    "uuid": "e0c1ab15-4a0c-4a9e-8299-08545f12ce2d",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Scripts/Managers/SoundManager.ts.meta": {
+    "time": 1669869507721.5784
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Scripts/Managers/SoundManager.ts": {
+    "time": 1669869507722.6367,
+    "uuid": "12303d40-7993-4bda-8bbf-33bdaa5ad2ec",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Prefabs/mainSetting.prefab.meta": {
+    "time": 1669869581079.8508
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Prefabs/mainSetting.prefab": {
+    "time": 1669875450010.3125,
+    "uuid": "a0ecfc4f-cdeb-4078-8eb8-9dd27b62bba0",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Scripts/SettingMenu.ts.meta": {
+    "time": 1669870949317.2507
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Scripts/SettingMenu.ts": {
+    "time": 1669873347485.2532,
+    "uuid": "ec80540e-7f90-490f-8646-ebb9dd9df4aa",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/audio.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/audio": {
+    "time": 1669869428392.8572,
+    "uuid": "16bbeef4-d534-499f-92e8-4dcbf867c765",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/audio/sound.wav.meta": {
+    "time": 1669869421438.5222
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/audio/sound.wav": {
+    "time": 1669869421436.7104,
+    "uuid": "885618d2-631e-4ce3-acaf-d8cbe7d2b0b9",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/audio/mixkit-fast-small-sweep-transition-166.wav.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/audio/mixkit-fast-small-sweep-transition-166.wav": {
+    "time": 1669813210000,
+    "uuid": "0ed45069-d5c4-44a2-a496-5163efe747e9",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/audio/Music.mp3.meta": {
+    "time": 1669869428393.0051
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/audio/Music.mp3": {
+    "time": 1669869428388.9512,
+    "uuid": "a9c5eff1-fbc9-4336-9927-54d37b19062d",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/audio/Sky-Puzzle.mp3.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/audio/Sky-Puzzle.mp3": {
+    "time": 1669813210000,
+    "uuid": "308c2867-93a0-4e25-8cf1-90c4ab277e1c",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/settingImages.meta": {
+    "time": 1669869480247.978
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/settingImages": {
+    "time": 1669869480246.1584,
+    "uuid": "620955c4-b4c1-4774-a1d7-04c71067d470",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/settingImages/background.png.meta": {
+    "time": 1669869480245.0474
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/settingImages/background.png": {
+    "time": 1669869480245.4377,
+    "uuid": "9d6f6bc7-aae4-478f-ab74-53b59069ff5d",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/settingImages/aboutButton.png.meta": {
+    "time": 1669869480245.859
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/settingImages/aboutButton.png": {
+    "time": 1669869480246.267,
+    "uuid": "fbb6d23c-5de8-4a2b-82a7-de26d40ba541",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/settingImages/crossButton.png.meta": {
+    "time": 1669869480244.1152
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/settingImages/crossButton.png": {
+    "time": 1669869480244.551,
+    "uuid": "04e5aef8-a05a-46c8-a501-4e5d93efa569",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/settingImages/settingsHeader.png.meta": {
+    "time": 1669869480242.9402
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/settingImages/settingsHeader.png": {
+    "time": 1669869480243.531,
+    "uuid": "176332fa-5b84-4c2c-ab32-501941313dac",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/settingImages/settingsPanel.png.meta": {
+    "time": 1669869480241.3833
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/settingImages/settingsPanel.png": {
+    "time": 1669869480242.2097,
+    "uuid": "f3584ec6-cbde-462f-bb90-68b96d529bb0",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/settingImages/toggleOn.png.meta": {
+    "time": 1669869480238.051
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/settingImages/toggleOn.png": {
+    "time": 1669869480238.7937,
+    "uuid": "de8170c4-c3b2-4268-8f22-2ba9c78a8a9d",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/settingImages/toggleOff.png.meta": {
+    "time": 1669869480239.549
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/resources/settingImages/toggleOff.png": {
+    "time": 1669869480240.2866,
+    "uuid": "1578cd94-7a4d-41ac-b5b5-26d73177d047",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Prefabs/End.prefab.meta": {
+    "time": 1669879410744.4119
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Prefabs/End.prefab": {
+    "time": 1669881795971.5298,
+    "uuid": "cc0c67cc-b29a-4d90-a5f9-b6cec663a50c",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/gamePlayImages/gameEndScreen.png.meta": {
+    "time": 1669879650810.26
+  },
+  "/Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/gamePlayImages/gameEndScreen.png": {
+    "time": 1669879650678.89,
+    "uuid": "0ae6f5b3-7c93-4e96-82c1-4e04c04be6ef",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Prefabs": {
+    "time": 1669879410742.1335,
+    "uuid": "8d674ed3-6362-4649-8b02-56e07fb48e88",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts": {
+    "time": 1669870949315.7756,
+    "uuid": "be467357-23f2-4f57-a12b-af94516a8df8",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Textture": {
+    "time": 1669813210000,
+    "uuid": "0527c571-03d0-4a87-8322-32588553c816",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/gamePlayImages": {
+    "time": 1669879650679.7903,
+    "uuid": "d8bfc477-86b6-464d-8377-029ae7ab2139",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources": {
+    "time": 1669881975067.514,
+    "uuid": "3a9716f6-7bfb-47e9-ac5f-bf24d6ade326",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers": {
+    "time": 1669869507723.9172,
+    "uuid": "14e9c70c-1e5a-49b9-99bc-c56be428aa93",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Images": {
+    "time": 1669882040233.4233,
+    "uuid": "dd3740e8-8b18-41e4-83b3-042834eb5deb",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Json": {
+    "time": 1669813210000,
+    "uuid": "d2bd40dc-5834-4037-8b3e-7af6b93729a3",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/arco": {
+    "time": 1669813210000,
+    "uuid": "1c9e901a-68aa-45b4-9df7-280838a3998b",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/audio": {
+    "time": 1669869428392.8572,
+    "uuid": "16bbeef4-d534-499f-92e8-4dcbf867c765",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/backGround": {
+    "time": 1669813210000,
+    "uuid": "759a669a-7416-460b-8f6b-842aef56047e",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/landing": {
+    "time": 1669869514265.669,
+    "uuid": "a0ef19da-6d8f-4957-9096-593fd9f0df55",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/settingImages": {
+    "time": 1669869480246.1584,
+    "uuid": "620955c4-b4c1-4774-a1d7-04c71067d470",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Audio.ts": {
+    "time": 1669813210000,
+    "uuid": "6a8f40a3-b13b-4e51-aa56-cc82edf81816",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/FitSprite.ts": {
+    "time": 1669813210000,
+    "uuid": "5054825c-5d30-491b-a68c-95c6ea574044",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/GamePlay.ts": {
+    "time": 1669877555305.3008,
+    "uuid": "fcf2f319-1d02-40d7-b64e-a005f85650e0",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SettingMenu.ts": {
+    "time": 1669873347485.2532,
+    "uuid": "ec80540e-7f90-490f-8646-ebb9dd9df4aa",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SingleTon.ts": {
+    "time": 1669874513405.547,
+    "uuid": "7ab67661-9e11-4306-949f-ad2910badf3a",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/glowing.ts": {
+    "time": 1669813210000,
+    "uuid": "6bc1cddb-ca61-48fd-b6d8-9f05f5ef016d",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/imageLoad.ts": {
+    "time": 1669813210000,
+    "uuid": "43e55812-e379-4cd1-8b5d-12e153a75f5e",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/photoSlice2.ts": {
+    "time": 1669881422954.9355,
+    "uuid": "b3504497-51e1-4b44-81d5-cd30f037a8cc",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/resourceLoader.ts": {
+    "time": 1669881247519.6711,
+    "uuid": "86341792-a74d-4d16-bb24-4141b248e199",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/ResourceUtils.ts": {
+    "time": 1669872384455.1033,
+    "uuid": "e0c1ab15-4a0c-4a9e-8299-08545f12ce2d",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/SoundManager.ts": {
+    "time": 1669869507722.6367,
+    "uuid": "12303d40-7993-4bda-8bbf-33bdaa5ad2ec",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Prefabs.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Textture.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/gamePlayImages.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers.meta": {
+    "time": 1669869507725.808
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Images.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Json.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/arco.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/audio.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/backGround.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/landing.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/settingImages.meta": {
+    "time": 1669869480247.978
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Audio.ts.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/FitSprite.ts.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/GamePlay.ts.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SettingMenu.ts.meta": {
+    "time": 1669870949317.2505
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SingleTon.ts.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/glowing.ts.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/imageLoad.ts.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/photoSlice2.ts.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/resourceLoader.ts.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/ResourceUtils.ts.meta": {
+    "time": 1669869507723.4304
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/SoundManager.ts.meta": {
+    "time": 1669869507721.5784
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Gameplay.scene": {
+    "time": 1669882777031.6921,
+    "uuid": "c67aa23b-638d-4598-adcf-eb726c5e4928",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Gameplay.scene.zip": {
+    "time": 1669813210000,
+    "uuid": "8483966f-2cc5-4c85-a1ce-1aa9d5baea0f",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Prefabs.meta 2": {
+    "time": 1669813210000,
+    "uuid": "843d02ec-f52f-4be3-9896-6fc9b906ca31",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts.meta 2": {
+    "time": 1669813210000,
+    "uuid": "1a8125d1-6543-4302-9f91-749610e5a907",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/glow.anim": {
+    "time": 1669813210000,
+    "uuid": "4927aa14-33a4-416d-8af8-12a7c28fecef",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/imageGlow.scene": {
+    "time": 1669813210000,
+    "uuid": "aadaa7d8-ae8d-4c91-a06c-bd2f707ef8a1",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/node.prefab": {
+    "time": 1669813210000,
+    "uuid": "4775fe9e-a8ea-4fa8-a5e0-681e25461d64",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scene.scene": {
+    "time": 1669813210000,
+    "uuid": "83a2d6db-0bd1-472b-a51e-ad616142abc1",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Prefabs/End.prefab": {
+    "time": 1669881795971.5298,
+    "uuid": "cc0c67cc-b29a-4d90-a5f9-b6cec663a50c",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Prefabs/ImageSlicer.prefab": {
+    "time": 1669879426893.6692,
+    "uuid": "23518c5e-a0cf-49c1-9f34-c146d71b040b",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Prefabs/Scrolling.prefab": {
+    "time": 1669813210000,
+    "uuid": "2c7a8d15-785e-4d61-92bc-dc22855c9d9a",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Prefabs/backGround.prefab": {
+    "time": 1669813210000,
+    "uuid": "05d0e726-2a6c-418a-ae90-59d270ac3ebb",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Prefabs/mainSetting.prefab": {
+    "time": 1669875450010.3125,
+    "uuid": "a0ecfc4f-cdeb-4078-8eb8-9dd27b62bba0",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Prefabs/mySprite.prefab": {
+    "time": 1669813210000,
+    "uuid": "fe1c2636-d76e-4864-b0a5-735cbf8b0a94",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Prefabs/picture.prefab": {
+    "time": 1669813210000,
+    "uuid": "23c06ee1-65c8-4c4f-ba4c-a7b5fb24c066",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Textture/bg.jpeg": {
+    "time": 1669813210000,
+    "uuid": "1cd26629-252e-401c-b8d3-edf20dc97d95",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/gamePlayImages/backButton.png": {
+    "time": 1669813210000,
+    "uuid": "fdaee96a-604a-42a3-ba0c-3f061c8f60b6",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/gamePlayImages/frame.png": {
+    "time": 1669813210000,
+    "uuid": "5678d63b-0cbe-4f0e-9e88-160d79cabc43",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/gamePlayImages/gameEndScreen.png": {
+    "time": 1669879650678.89,
+    "uuid": "0ae6f5b3-7c93-4e96-82c1-4e04c04be6ef",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/gamePlayImages/nextButton.png": {
+    "time": 1669813210000,
+    "uuid": "ec6d6161-9c5c-4033-8a55-41b4939f1c03",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/gamePlayImages/restartButton.png": {
+    "time": 1669813210000,
+    "uuid": "a667607e-da66-4733-a98c-08dbd164b905",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/gamePlayImages/scorePanel.png": {
+    "time": 1669813210000,
+    "uuid": "a008e933-384a-43ed-986e-bfd10b22c35e",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/gamePlayImages/settingsButton.png": {
+    "time": 1669813210000,
+    "uuid": "afbfcc30-81c6-4ad0-a90e-9d174dee7bba",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/gamePlayImages/whiteBg.jpeg": {
+    "time": 1669813210000,
+    "uuid": "2a533f9d-ccc3-4078-bbbe-1c70f07e39f3",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Images/baby0.png": {
+    "time": 1669813210000,
+    "uuid": "87e457e2-17ba-41fa-9396-ce894a3e2dfe",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Images/baby0.prefab": {
+    "time": 1669813210000,
+    "uuid": "7cf3288a-a63b-4e8b-96c8-e448b193e497",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Images/baby1.png": {
+    "time": 1669813210000,
+    "uuid": "ceed1bea-c5d3-4edb-93d8-2db32c314dde",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Images/baby2.png": {
+    "time": 1669813210000,
+    "uuid": "372791f8-19c6-48e6-924b-1c7e1f50c3ea",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Images/baby3.png": {
+    "time": 1669813210000,
+    "uuid": "22582fda-47ee-4328-886b-c797e368b90b",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Images/baby4.png": {
+    "time": 1669813210000,
+    "uuid": "f0fa04a7-1c49-49f2-9584-fece79191497",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Images/babyMermaid0.png": {
+    "time": 1669813210000,
+    "uuid": "9ed03934-2827-425d-a5e5-19057ac3ba2d",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Images/babyMermaid1.png": {
+    "time": 1669813210000,
+    "uuid": "659ea1b2-f156-4f1a-a6ca-bede9e432a8a",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Images/babyMermaid2.png": {
+    "time": 1669813210000,
+    "uuid": "37a28c35-521e-407c-ac4d-65ed00c27763",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Images/babyMermaid3.png": {
+    "time": 1669813210000,
+    "uuid": "82c3e526-4989-4a0a-8170-db624c563d20",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Images/babyMermaid4.png": {
+    "time": 1669813210000,
+    "uuid": "bed325c1-92ff-4c66-8874-a15680dbdb82",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Images/mermaid0.png": {
+    "time": 1669813210000,
+    "uuid": "778df69b-210c-4bbd-9820-82cd389c251d",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Images/mermaidMom0.png": {
+    "time": 1669813210000,
+    "uuid": "a841db8f-11bc-413a-9734-a61bd28c4ef4",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Images/mermaidMom1.png": {
+    "time": 1669813210000,
+    "uuid": "79e63b2c-dad8-4e45-af32-636d4a47084d",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Images/mermaidMom2.png": {
+    "time": 1669813210000,
+    "uuid": "955b2a23-1d13-4539-9265-c7c643f75a36",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Images/mermaidMom3.png": {
+    "time": 1669813210000,
+    "uuid": "7d896f3d-55e7-42ab-8076-775df7b33660",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Images/mermaidMom4.png": {
+    "time": 1669813210000,
+    "uuid": "14089679-1298-43b0-8764-068fc402715e",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Images/mom0.png": {
+    "time": 1669813210000,
+    "uuid": "c1f497e2-09c8-420c-b899-d57be6324c0a",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Images/mom1.png": {
+    "time": 1669813210000,
+    "uuid": "46bcb68f-c417-4c49-a3de-a901c8cb0115",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Images/mom2.png": {
+    "time": 1669813210000,
+    "uuid": "f312952a-2139-4b94-9417-da33159ef2a3",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Images/mom3.png": {
+    "time": 1669813210000,
+    "uuid": "a7275de5-600a-41f3-8ba6-3114858a7902",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Images/mom4.png": {
+    "time": 1669813210000,
+    "uuid": "cf2a4751-305c-4ead-b2aa-53efafb65dd1",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Json/levelData.json": {
+    "time": 1669813210000,
+    "uuid": "0ec75895-eb94-48cc-8745-1f6a3c22fa09",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/arco/ARCO for OSX.otf": {
+    "time": 1669813210000,
+    "uuid": "8fa7bac1-966e-4e63-b972-c24c7873f021",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/arco/ARCO.ttf": {
+    "time": 1669813210000,
+    "uuid": "6360ecb7-1c8a-46f5-8cb8-ee13f8028f84",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/audio/Music.mp3": {
+    "time": 1669869428388.9512,
+    "uuid": "a9c5eff1-fbc9-4336-9927-54d37b19062d",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/audio/Sky-Puzzle.mp3": {
+    "time": 1669813210000,
+    "uuid": "308c2867-93a0-4e25-8cf1-90c4ab277e1c",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/audio/mixkit-fast-small-sweep-transition-166.wav": {
+    "time": 1669813210000,
+    "uuid": "0ed45069-d5c4-44a2-a496-5163efe747e9",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/audio/sound.wav": {
+    "time": 1669869421436.7107,
+    "uuid": "885618d2-631e-4ce3-acaf-d8cbe7d2b0b9",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/backGround/backGround.jpeg": {
+    "time": 1669813210000,
+    "uuid": "e61edc04-6249-411a-90fd-31ccc06a73fd",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/backGround/back_pressed.png": {
+    "time": 1669813210000,
+    "uuid": "faa39952-62b7-4ab0-87ce-49d3f21fd613",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/backGround/background.png": {
+    "time": 1669813210000,
+    "uuid": "8a7f2e95-cb3f-4958-a5c6-ecef4ec6b837",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/landing/bottomRocks.png": {
+    "time": 1669813210000,
+    "uuid": "e3caab33-0f33-4556-8934-4ee0918fac1e",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/landing/gameBG.png": {
+    "time": 1669813210000,
+    "uuid": "fcc97927-1763-4a3e-8a2d-bb620a011c96",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/landing/logo.png": {
+    "time": 1669813210000,
+    "uuid": "e03c609f-978a-4d5d-9b57-80f3a7adeb1d",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/landing/splashScreen.png": {
+    "time": 1669813210000,
+    "uuid": "c4ff86df-51f6-4209-a25b-5460ebb9c3a6",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/landing/startGameButton.png": {
+    "time": 1669813210000,
+    "uuid": "4dcb69d5-cdea-46db-8689-c5859cbdce9c",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/settingImages/aboutButton.png": {
+    "time": 1669869480246.267,
+    "uuid": "fbb6d23c-5de8-4a2b-82a7-de26d40ba541",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/settingImages/background.png": {
+    "time": 1669869480245.4377,
+    "uuid": "9d6f6bc7-aae4-478f-ab74-53b59069ff5d",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/settingImages/crossButton.png": {
+    "time": 1669869480244.551,
+    "uuid": "04e5aef8-a05a-46c8-a501-4e5d93efa569",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/settingImages/settingsHeader.png": {
+    "time": 1669869480243.5308,
+    "uuid": "176332fa-5b84-4c2c-ab32-501941313dac",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/settingImages/settingsPanel.png": {
+    "time": 1669869480242.2097,
+    "uuid": "f3584ec6-cbde-462f-bb90-68b96d529bb0",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/settingImages/toggleOff.png": {
+    "time": 1669869480240.2866,
+    "uuid": "1578cd94-7a4d-41ac-b5b5-26d73177d047",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/settingImages/toggleOn.png": {
+    "time": 1669869480238.7937,
+    "uuid": "de8170c4-c3b2-4268-8f22-2ba9c78a8a9d",
+    "missing": false
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Gameplay.scene.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/glow.anim.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts.meta 2.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Prefabs.meta 2.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Gameplay.scene.zip.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/imageGlow.scene.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/node.prefab.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scene.scene.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Prefabs/End.prefab.meta": {
+    "time": 1669879410744.4119
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Prefabs/ImageSlicer.prefab.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Prefabs/Scrolling.prefab.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Prefabs/backGround.prefab.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Prefabs/mainSetting.prefab.meta": {
+    "time": 1669869581079.8508
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Prefabs/mySprite.prefab.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Prefabs/picture.prefab.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Textture/bg.jpeg.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/gamePlayImages/backButton.png.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/gamePlayImages/nextButton.png.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/gamePlayImages/frame.png.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/gamePlayImages/restartButton.png.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/gamePlayImages/whiteBg.jpeg.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Images/baby0.prefab.meta": {
+    "time": 1669882005309.0127
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/gamePlayImages/scorePanel.png.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/gamePlayImages/settingsButton.png.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/gamePlayImages/gameEndScreen.png.meta": {
+    "time": 1669879650810.26
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Images/baby0.png.meta": {
+    "time": 1669883328840.8848
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Images/baby1.png.meta": {
+    "time": 1669882005333.7625
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Images/baby2.png.meta": {
+    "time": 1669882005354.0603
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Images/baby3.png.meta": {
+    "time": 1669882005335.3718
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Images/baby4.png.meta": {
+    "time": 1669882005389.4016
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Images/babyMermaid0.png.meta": {
+    "time": 1669882005393.1904
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Images/babyMermaid1.png.meta": {
+    "time": 1669882005390.0754
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Images/babyMermaid2.png.meta": {
+    "time": 1669882005422.4001
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Images/babyMermaid3.png.meta": {
+    "time": 1669882005453.3052
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Images/babyMermaid4.png.meta": {
+    "time": 1669882005454.4717
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Images/mermaidMom0.png.meta": {
+    "time": 1669882005455.4585
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Images/mermaid0.png.meta": {
+    "time": 1669882005476.5066
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Images/mermaidMom1.png.meta": {
+    "time": 1669882005497.6343
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Images/mermaidMom2.png.meta": {
+    "time": 1669882005498.2053
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Images/mermaidMom3.png.meta": {
+    "time": 1669882005506.9631
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Images/mermaidMom4.png.meta": {
+    "time": 1669882005516.9932
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Images/mom0.png.meta": {
+    "time": 1669882005527.4348
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Json/levelData.json.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Images/mom1.png.meta": {
+    "time": 1669882005544.3584
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/arco/ARCO for OSX.otf.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/arco/ARCO.ttf.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Images/mom2.png.meta": {
+    "time": 1669882005548.0999
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/audio/Music.mp3.meta": {
+    "time": 1669869428393.0051
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/audio/Sky-Puzzle.mp3.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Images/mom3.png.meta": {
+    "time": 1669882005554.9268
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/Images/mom4.png.meta": {
+    "time": 1669882005560.9392
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/audio/mixkit-fast-small-sweep-transition-166.wav.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/audio/sound.wav.meta": {
+    "time": 1669869421438.5222
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/backGround/back_pressed.png.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/backGround/background.png.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/backGround/backGround.jpeg.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/landing/bottomRocks.png.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/landing/splashScreen.png.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/landing/startGameButton.png.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/settingImages/background.png.meta": {
+    "time": 1669869480245.0474
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/landing/logo.png.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/landing/gameBG.png.meta": {
+    "time": 1669813210000
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/settingImages/aboutButton.png.meta": {
+    "time": 1669869480245.859
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/settingImages/crossButton.png.meta": {
+    "time": 1669869480244.1152
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/settingImages/settingsHeader.png.meta": {
+    "time": 1669869480242.9402
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/settingImages/toggleOff.png.meta": {
+    "time": 1669869480239.549
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/settingImages/toggleOn.png.meta": {
+    "time": 1669869480238.051
+  },
+  "/Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/resources/settingImages/settingsPanel.png.meta": {
+    "time": 1669869480241.3833
+  }
+}

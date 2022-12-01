@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "backButton",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 166,
+      "height": 165
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 166,
+      "height": 165
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -83,
+        -82.5,
+        0,
+        83,
+        -82.5,
+        0,
+        -83,
+        82.5,
+        0,
+        83,
+        82.5,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        165,
+        166,
+        165,
+        0,
+        0,
+        166,
+        0
+      ],
+      "nuv": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "minPos": {
+        "x": -83,
+        "y": -82.5,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 83,
+        "y": 82.5,
+        "z": 0
+      }
+    },
+    "texture": "fdaee96a-604a-42a3-ba0c-3f061c8f60b6@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}
