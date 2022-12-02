@@ -1,5 +1,5 @@
 import { _decorator, Component, Node, Prefab, instantiate, SpriteFrame, Sprite, UITransform, EventMouse, ImageAsset, Texture2D, assetManager } from "cc";
-import { FitSprite } from "./FitSprite";
+import { FitSprite } from "./fitSprite";
 import { resourceLoader } from "./resourceLoader";
 const { ccclass, property } = _decorator;
 

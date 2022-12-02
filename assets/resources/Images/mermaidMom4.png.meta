@@ -2,7 +2,7 @@
   "ver": "1.0.25",
   "importer": "image",
   "imported": true,
-  "uuid": "14089679-1298-43b0-8764-068fc402715e",
+  "uuid": "fd3d275e-165f-4e45-a2c8-d1f9ab379ecb",
   "files": [
     ".json",
     ".png"
@@ -10,14 +10,14 @@
   "subMetas": {
     "6c48a": {
       "importer": "texture",
-      "uuid": "14089679-1298-43b0-8764-068fc402715e@6c48a",
+      "uuid": "fd3d275e-165f-4e45-a2c8-d1f9ab379ecb@6c48a",
       "displayName": "mermaidMom4",
       "id": "6c48a",
       "name": "texture",
       "userData": {
         "wrapModeS": "clamp-to-edge",
         "wrapModeT": "clamp-to-edge",
-        "imageUuidOrDatabaseUri": "14089679-1298-43b0-8764-068fc402715e",
+        "imageUuidOrDatabaseUri": "fd3d275e-165f-4e45-a2c8-d1f9ab379ecb",
         "isUuid": true,
         "visible": false,
         "minfilter": "linear",
@@ -34,7 +34,7 @@
     },
     "f9941": {
       "importer": "sprite-frame",
-      "uuid": "14089679-1298-43b0-8764-068fc402715e@f9941",
+      "uuid": "fd3d275e-165f-4e45-a2c8-d1f9ab379ecb@f9941",
       "displayName": "mermaidMom4",
       "id": "f9941",
       "name": "spriteFrame",
@@ -114,7 +114,7 @@
           ]
         },
         "isUuid": true,
-        "imageUuidOrDatabaseUri": "14089679-1298-43b0-8764-068fc402715e@6c48a",
+        "imageUuidOrDatabaseUri": "fd3d275e-165f-4e45-a2c8-d1f9ab379ecb@6c48a",
         "atlasUuid": ""
       },
       "ver": "1.0.11",
@@ -129,6 +129,6 @@
     "type": "sprite-frame",
     "fixAlphaTransparencyArtifacts": true,
     "hasAlpha": true,
-    "redirect": "14089679-1298-43b0-8764-068fc402715e@f9941"
+    "redirect": "fd3d275e-165f-4e45-a2c8-d1f9ab379ecb@f9941"
   }
 }

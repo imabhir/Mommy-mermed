@@ -1,8 +1,10 @@
-import { _decorator, Component, Node, SpriteFrame, Texture2D, math, Sprite, ImageAsset, Label, EventTouch, UITransform, Vec3, EventMouse, Prefab, instantiate, JsonAsset, Intersection2D, tween, assetManager, AudioSource } from 'cc';
+import { _decorator, Component, Node, SpriteFrame, Texture2D, math, Sprite, ImageAsset, Label, EventTouch, UITransform, Vec3, EventMouse, Prefab, instantiate, JsonAsset, Intersection2D, tween, assetManager, AudioSource, AudioClip } from 'cc';
 import { glowing } from './glowing';
 const { ccclass, property } = _decorator;
-import { SingletonClass } from './SingleTon';
-import { Audio } from './Audio';
+import { SingletonClass } from './singleTon';
+import { Audio } from './audio';
+import { ResourceUtils } from './managers/resourceUtils';
+import { SoundManager } from './managers/soundManager';
 @ccclass('photoSlice2')
 export class photoSlice2 extends Component {
     
@@ -18,8 +20,13 @@ export class photoSlice2 extends Component {
     pos:Vec3=null;
     NegativePoint:number=0;
     audio: any=null;
+    soundsObj:any=null;
+    soundManager:any=null;
+    
     start() {
         this.audio=this.node.getComponent(AudioSource).clip;
+        this.soundsObj=SingletonClass.getInstance();
+        this.soundManager = SoundManager.getInstance();
     }
     /**
      * asdasdasdad
@@ -32,14 +39,16 @@ export class photoSlice2 extends Component {
         this.GnumOfSlice=splitCount
         this.imageCallback = callback
         let sprite = SpriteFrame.createWithImage(imageAsset); 
-        console.log(sprite.height)
-        if(this.flag = true){
+        
+        if(this.flag == true){
             this.imageSprite = sprite
             this.flag = false
         }
         
-        this.NegativePoint=(imageAsset.height/2)-(imageAsset.height/this.GnumOfSlice)-(this.GnumOfSlice-1)*((imageAsset.height/this.GnumOfSlice))+((imageAsset.height/this.GnumOfSlice)/2);
-
+        console.log(sprite);
+        // this.NegativePoint=(imageAsset.height/2)-(imageAsset.height/this.GnumOfSlice)-(this.GnumOfSlice-1)*((imageAsset.height/this.GnumOfSlice))+((imageAsset.height/this.GnumOfSlice)/2);
+        this.NegativePoint=(sprite.height/2)-(sprite.height/this.GnumOfSlice)-(this.GnumOfSlice-1)*((sprite.height/this.GnumOfSlice))+((sprite.height/this.GnumOfSlice)/2);
+        
         let rect=math.rect(0,Index*(sprite.height/splitCount),sprite.width,sprite.height/splitCount);
         this.node.on(Node.EventType.TOUCH_START,this.touchStart,this,true);
         this.node.on(Node.EventType.TOUCH_MOVE, this.onTouchMove, this, true);
@@ -48,7 +57,7 @@ export class photoSlice2 extends Component {
         this.node.getComponent(Sprite).spriteFrame = sprite;
        this.node.name = `${Index}`
        
-       let json : JsonAsset
+       
     }
 
 
@@ -113,7 +122,10 @@ export class photoSlice2 extends Component {
                             tween(AnotherNode)
                         .to(0.07,{position : new Vec3(newPos.x,-newPos.y,newPos.z), })
                         .call(() => {
-                            this.audio.play();
+                            if(!this.soundsObj.boolSound){
+                            this.audio.play();   
+                            }
+                           
                             this.checkPuzzle();
                         })
                         .start();
@@ -121,7 +133,9 @@ export class photoSlice2 extends Component {
                             tween(AnotherNode)
                             .to(0.07,{position : new Vec3(newPos.x,newPos.y,newPos.z), })
                             .call(() => {
-                                this.audio.play();
+                                if(!this.soundsObj.boolSound){
+                                    this.audio.play();   
+                                    }
                                 this.checkPuzzle();
                             })
                             .start();
@@ -139,7 +153,6 @@ export class photoSlice2 extends Component {
 
     checkPuzzle(){
        
-        
         var FirstNode=this.node.parent.getChildByName('0');
         var secNode=this.node.parent.getChildByName('1');
         var FirstNodePos=FirstNode.getPosition();
@@ -158,13 +171,15 @@ export class photoSlice2 extends Component {
         }
         }
         if(check){
-           
-        
+            if(!this.soundsObj.boolSound){
+                this.soundManager.setWinMusicVolume(1);
+                this.soundManager.playWinSoundEffect( ResourceUtils.getInstance().getMusicFile("Sky-Puzzle"),false);
+                console.log("win sound");
+            }
             let mid = Math.floor(this.GnumOfSlice/2);
-          
             let c = this.node.parent.getChildByName(`${mid}`)
             this.puzzleResult = true;
-            this.imageCallback(this.puzzleResult, c.getPosition())
+            this.imageCallback(this.puzzleResult, c.getPosition());
    
         }
     }

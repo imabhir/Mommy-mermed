@@ -3,11 +3,13 @@ import { AudioClip, AudioSource, Vec3 } from "cc";
 export class SoundManager {
     private static _instance: SoundManager = null!;
     private _audioSource: AudioSource = null!;
+    private _winSound : AudioSource=null;
     private _SoundEffectAudioSource: AudioSource = null!;
     private volume: number = 1!;
 
     private canPlayMusic = true;
     private canPlaySound = true;
+    private canPlayWinsound=true;
 
     public static getInstance() {
         if (!SoundManager._instance) {
@@ -18,6 +20,9 @@ export class SoundManager {
 
     init(audioSource: AudioSource) {
         this._audioSource = audioSource;
+    }
+    initWinSound(audioSource:AudioSource){
+        this._winSound=audioSource;
     }
 
     initSoundEffectAS(audioSource: AudioSource) {
@@ -32,6 +37,19 @@ export class SoundManager {
             this._audioSource.playOneShot(clip, 1);
         } else {
             console.log(clip, "Invalid audio clip format");
+        }
+    } 
+    playWinSoundEffect(clip: AudioClip, loop: boolean = false) {
+        if (!this.canPlaySound) {
+            return;
+        }
+        if (clip) {
+            this.stopWinMusic();
+            this._winSound.clip = clip;
+            this._winSound.loop = loop;
+            this._winSound.play();
+        } else {
+            console.log(clip, "Invalid win sound clip format");
         }
     }
 
@@ -76,7 +94,9 @@ export class SoundManager {
             console.log(clip, "Invalid audio clip format");
         }
     }
-
+    stopWinMusic() {
+        this._winSound.stop();
+    }
     stopMusic() {
         this._audioSource.stop();
     }
@@ -85,6 +105,11 @@ export class SoundManager {
         flag = Math.round(flag * 10) / 10;
         this._audioSource.volume = flag;
         localStorage.setItem("MusicVolume", flag.toString());
+    }
+    setWinMusicVolume(flag: number) {
+        flag = Math.round(flag * 10) / 10;
+        this._winSound.volume = flag;
+        localStorage.setItem("WinMusicVolume", flag.toString());
     }
 
     setEffectsVolume(flag: number) {
@@ -100,6 +125,9 @@ export class SoundManager {
     get EffectsVolume() {
         return this._SoundEffectAudioSource.volume;
     }
+    get CanPlayMusic(): boolean {
+            return this.canPlayMusic;
+        }
 
     set CanPlayMusic(value: boolean) {
         if (value) {
@@ -111,20 +139,28 @@ export class SoundManager {
         this.canPlayMusic = value;
     }
 
-    get CanPlayMusic(): boolean {
-        return this.canPlayMusic;
+    
+    set CanPlayWinSound(value: boolean) {
+        if (value) {
+            this._winSound.play();
+        } else {
+            this._winSound.stop();
+        }
+        localStorage.setItem("CanPlayEffects", value.toString());
+        this.canPlaySound = value;
     }
-
     set CanPlaySound(value: boolean) {
         if (value) {
-            // this._SoundEffectAudioSource.play();
+            this._SoundEffectAudioSource.play();
         } else {
             this._SoundEffectAudioSource.stop();
         }
         localStorage.setItem("CanPlayEffects", value.toString());
         this.canPlaySound = value;
     }
-
+    get CanPlayWinSound(): boolean {
+        return this.canPlaySound;
+    }
     get CanPlaySound(): boolean {
         return this.canPlaySound;
     }
@@ -134,6 +170,11 @@ export class SoundManager {
         let EffectVolume: string = localStorage.getItem("EffectVolume");
         let CanPlayMusic: string = localStorage.getItem("CanPlayMusic");
         let CanPlayEffects: string = localStorage.getItem("CanPlayEffects");
+        let winMusic:string=localStorage.getItem("WinMusicVolume");
+        if(winMusic){
+            this.setWinMusicVolume(parseInt(winMusic));
+            
+        }
 
         if (MusicVolume) {
             this.setMusicVolume(parseFloat(MusicVolume));

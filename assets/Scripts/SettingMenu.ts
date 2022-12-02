@@ -1,9 +1,9 @@
 
 import { _decorator, Component, Node, AudioSource, AudioClip, Prefab, Button, SpriteFrame, Sprite } from 'cc';
-import { SingletonClass } from './SingleTon';
+import { SingletonClass } from './singleTon';
 const { ccclass, property } = _decorator;
-import { SoundManager } from './Managers/SoundManager';
-import { ResourceUtils } from './Managers/ResourceUtils';
+import { SoundManager } from './managers/soundManager';
+import { ResourceUtils } from './managers/resourceUtils';
 
 @ccclass('SetiningMenu')
 export class SetiningMenu extends Component {

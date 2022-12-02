@@ -11,19 +11,6 @@ export class SingletonClass {
         return SingletonClass._instance;
     }
 
-//     constructor(){
-    
-//         resources.loadDir("Json",JsonAsset, (err , item)=>{
-//         if (err) {
-//             console.log("ERROR IN LOADING");
-//         }else{
-//             console.log(item);
-//             this.value=item;
-           
-//         } 
-//         return item;
-//     });
-// }
     onSound(){
         this.boolSound=true;
     }

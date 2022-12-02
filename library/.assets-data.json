@@ -1,14 +1,14 @@
 {
   "8d674ed3-6362-4649-8b02-56e07fb48e88": {
-    "url": "db://assets/Prefabs",
+    "url": "db://assets/prefabs",
     "value": {}
   },
   "be467357-23f2-4f57-a12b-af94516a8df8": {
-    "url": "db://assets/Scripts",
+    "url": "db://assets/scripts",
     "value": {}
   },
   "0527c571-03d0-4a87-8322-32588553c816": {
-    "url": "db://assets/Textture",
+    "url": "db://assets/textture",
     "value": {}
   },
   "16bbeef4-d534-499f-92e8-4dcbf867c765": {
@@ -16,7 +16,7 @@
     "value": {}
   },
   "d8bfc477-86b6-464d-8377-029ae7ab2139": {
-    "url": "db://assets/gamePlayImages",
+    "url": "db://assets/textture/gamePlayImages",
     "value": {}
   },
   "3a9716f6-7bfb-47e9-ac5f-bf24d6ade326": {
@@ -24,7 +24,7 @@
     "value": {}
   },
   "dd3740e8-8b18-41e4-83b3-042834eb5deb": {
-    "url": "db://assets/resources/Images",
+    "url": "db://assets/resources/images",
     "value": {}
   },
   "d2bd40dc-5834-4037-8b3e-7af6b93729a3": {
@@ -40,43 +40,43 @@
     "value": {}
   },
   "a0ef19da-6d8f-4957-9096-593fd9f0df55": {
-    "url": "db://assets/resources/landing",
+    "url": "db://assets/textture/landing",
     "value": {}
   },
   "6a8f40a3-b13b-4e51-aa56-cc82edf81816": {
-    "url": "db://assets/Scripts/Audio.ts",
+    "url": "db://assets/scripts/audio.ts",
     "value": {}
   },
   "5054825c-5d30-491b-a68c-95c6ea574044": {
-    "url": "db://assets/Scripts/FitSprite.ts",
+    "url": "db://assets/scripts/fitSprite.ts",
     "value": {}
   },
   "fcf2f319-1d02-40d7-b64e-a005f85650e0": {
-    "url": "db://assets/Scripts/GamePlay.ts",
+    "url": "db://assets/scripts/gamePlay.ts",
     "value": {}
   },
   "7ab67661-9e11-4306-949f-ad2910badf3a": {
-    "url": "db://assets/Scripts/SingleTon.ts",
+    "url": "db://assets/scripts/singleTon.ts",
     "value": {}
   },
   "6bc1cddb-ca61-48fd-b6d8-9f05f5ef016d": {
-    "url": "db://assets/Scripts/glowing.ts",
+    "url": "db://assets/scripts/glowing.ts",
     "value": {}
   },
   "43e55812-e379-4cd1-8b5d-12e153a75f5e": {
-    "url": "db://assets/Scripts/imageLoad.ts",
+    "url": "db://assets/scripts/imageLoad.ts",
     "value": {}
   },
   "b3504497-51e1-4b44-81d5-cd30f037a8cc": {
-    "url": "db://assets/Scripts/photoSlice2.ts",
+    "url": "db://assets/scripts/photoSlice2.ts",
     "value": {}
   },
   "86341792-a74d-4d16-bb24-4141b248e199": {
-    "url": "db://assets/Scripts/resourceLoader.ts",
+    "url": "db://assets/scripts/resourceLoader.ts",
     "value": {}
   },
   "c67aa23b-638d-4598-adcf-eb726c5e4928": {
-    "url": "db://assets/Gameplay.scene",
+    "url": "db://assets/scene/Gameplay.scene",
     "value": {
       "depends": [
         "c67aa23b-638d-4598-adcf-eb726c5e4928",
@@ -88,72 +88,52 @@
         "4dcb69d5-cdea-46db-8689-c5859cbdce9c@f9941",
         "4dcb69d5-cdea-46db-8689-c5859cbdce9c@f9941",
         "e3caab33-0f33-4556-8934-4ee0918fac1e@f9941",
-        "fcc97927-1763-4a3e-8a2d-bb620a011c96@f9941",
         "23518c5e-a0cf-49c1-9f34-c146d71b040b",
+        "1152e7ac-accb-49e7-bfc5-cb98692493be",
         "cc0c67cc-b29a-4d90-a5f9-b6cec663a50c",
         "a0ecfc4f-cdeb-4078-8eb8-9dd27b62bba0",
         "23c06ee1-65c8-4c4f-ba4c-a7b5fb24c066",
+        "fcc97927-1763-4a3e-8a2d-bb620a011c96@f9941",
         "c77ecaa8-c936-46c4-a5b0-98692673ed87"
       ]
     }
   },
   "4927aa14-33a4-416d-8af8-12a7c28fecef": {
-    "url": "db://assets/glow.anim",
+    "url": "db://assets/animation/glow.anim",
     "value": {
       "depends": []
     }
   },
   "8483966f-2cc5-4c85-a1ce-1aa9d5baea0f": {
     "url": "db://assets/Gameplay.scene.zip",
-    "value": {
-      "depends": []
-    }
+    "value": {}
   },
   "843d02ec-f52f-4be3-9896-6fc9b906ca31": {
     "url": "db://assets/Prefabs.meta 2",
-    "value": {
-      "depends": []
-    }
+    "value": {}
   },
   "1a8125d1-6543-4302-9f91-749610e5a907": {
     "url": "db://assets/Scripts.meta 2",
-    "value": {
-      "depends": []
-    }
+    "value": {}
   },
   "aadaa7d8-ae8d-4c91-a06c-bd2f707ef8a1": {
     "url": "db://assets/imageGlow.scene",
-    "value": {
-      "depends": [
-        "aadaa7d8-ae8d-4c91-a06c-bd2f707ef8a1",
-        "aadaa7d8-ae8d-4c91-a06c-bd2f707ef8a1"
-      ]
-    }
+    "value": {}
   },
   "4775fe9e-a8ea-4fa8-a5e0-681e25461d64": {
-    "url": "db://assets/node.prefab",
-    "value": {
-      "depends": [
-        "24c419ea-63a8-4ea1-a9d0-7fc469489bbc@f9941"
-      ]
-    }
+    "url": "db://assets/prefabs/node.prefab",
+    "value": {}
   },
   "83a2d6db-0bd1-472b-a51e-ad616142abc1": {
     "url": "db://assets/scene.scene",
-    "value": {
-      "depends": [
-        "83a2d6db-0bd1-472b-a51e-ad616142abc1",
-        "e4e156df-df05-4e8f-8456-4ca9f70310a9",
-        "83a2d6db-0bd1-472b-a51e-ad616142abc1"
-      ]
-    }
+    "value": {}
   },
   "23518c5e-a0cf-49c1-9f34-c146d71b040b": {
-    "url": "db://assets/Prefabs/ImageSlicer.prefab",
+    "url": "db://assets/prefabs/imageSlicer.prefab",
     "value": {
       "depends": [
-        "5678d63b-0cbe-4f0e-9e88-160d79cabc43@f9941",
         "2a533f9d-ccc3-4078-bbbe-1c70f07e39f3@f9941",
+        "5678d63b-0cbe-4f0e-9e88-160d79cabc43@f9941",
         "afbfcc30-81c6-4ad0-a90e-9d174dee7bba@f9941",
         "afbfcc30-81c6-4ad0-a90e-9d174dee7bba@f9941",
         "afbfcc30-81c6-4ad0-a90e-9d174dee7bba@f9941",
@@ -174,27 +154,19 @@
         "fdaee96a-604a-42a3-ba0c-3f061c8f60b6@f9941",
         "fdaee96a-604a-42a3-ba0c-3f061c8f60b6@f9941",
         "fdaee96a-604a-42a3-ba0c-3f061c8f60b6@f9941",
-        "a008e933-384a-43ed-986e-bfd10b22c35e@f9941",
         "a0ecfc4f-cdeb-4078-8eb8-9dd27b62bba0",
-        "e61edc04-6249-411a-90fd-31ccc06a73fd",
+        "fcc97927-1763-4a3e-8a2d-bb620a011c96",
         "05d0e726-2a6c-418a-ae90-59d270ac3ebb",
         "23c06ee1-65c8-4c4f-ba4c-a7b5fb24c066"
       ]
     }
   },
   "2c7a8d15-785e-4d61-92bc-dc22855c9d9a": {
-    "url": "db://assets/Prefabs/Scrolling.prefab",
-    "value": {
-      "depends": [
-        "afc47931-f066-46b0-90be-9fe61f213428@f9941",
-        "ffb88a8f-af62-48f4-8f1d-3cb606443a43@f9941",
-        "fcc97927-1763-4a3e-8a2d-bb620a011c96@f9941",
-        "a85f2527-5301-4893-b37e-edb765bb50f9"
-      ]
-    }
+    "url": "db://assets/prefabs/scrolling.prefab",
+    "value": {}
   },
   "05d0e726-2a6c-418a-ae90-59d270ac3ebb": {
-    "url": "db://assets/Prefabs/backGround.prefab",
+    "url": "db://assets/prefabs/backGround.prefab",
     "value": {
       "depends": [
         "0ed45069-d5c4-44a2-a496-5163efe747e9"
@@ -202,7 +174,7 @@
     }
   },
   "fe1c2636-d76e-4864-b0a5-735cbf8b0a94": {
-    "url": "db://assets/Prefabs/mySprite.prefab",
+    "url": "db://assets/prefabs/mySprite.prefab",
     "value": {
       "depends": [
         "57520716-48c8-4a19-8acf-41c9f8777fb0@f9941"
@@ -210,11 +182,10 @@
     }
   },
   "23c06ee1-65c8-4c4f-ba4c-a7b5fb24c066": {
-    "url": "db://assets/Prefabs/picture.prefab",
+    "url": "db://assets/prefabs/picture.prefab",
     "value": {
       "depends": [
         "8a7f2e95-cb3f-4958-a5c6-ecef4ec6b837@f9941",
-        "83a7685b-5388-46f9-a7e1-b271a58d0463@f9941",
         "4927aa14-33a4-416d-8af8-12a7c28fecef",
         "4927aa14-33a4-416d-8af8-12a7c28fecef",
         "83a7685b-5388-46f9-a7e1-b271a58d0463@f9941",
@@ -223,7 +194,7 @@
     }
   },
   "1cd26629-252e-401c-b8d3-edf20dc97d95": {
-    "url": "db://assets/Textture/bg.jpeg",
+    "url": "db://assets/textture/background/bg.jpeg",
     "value": {
       "depends": []
     }
@@ -241,19 +212,19 @@
     }
   },
   "fdaee96a-604a-42a3-ba0c-3f061c8f60b6": {
-    "url": "db://assets/gamePlayImages/backButton.png",
+    "url": "db://assets/textture/gamePlayImages/backButton.png",
     "value": {
       "depends": []
     }
   },
   "5678d63b-0cbe-4f0e-9e88-160d79cabc43": {
-    "url": "db://assets/gamePlayImages/frame.png",
+    "url": "db://assets/textture/gamePlayImages/frame.png",
     "value": {
       "depends": []
     }
   },
   "1cd26629-252e-401c-b8d3-edf20dc97d95@6c48a": {
-    "url": "db://assets/Textture/bg.jpeg@6c48a",
+    "url": "db://assets/textture/background/bg.jpeg@6c48a",
     "value": {
       "depends": [
         "1cd26629-252e-401c-b8d3-edf20dc97d95"
@@ -261,19 +232,19 @@
     }
   },
   "ec6d6161-9c5c-4033-8a55-41b4939f1c03": {
-    "url": "db://assets/gamePlayImages/nextButton.png",
+    "url": "db://assets/textture/gamePlayImages/nextButton.png",
     "value": {
       "depends": []
     }
   },
   "a667607e-da66-4733-a98c-08dbd164b905": {
-    "url": "db://assets/gamePlayImages/restartButton.png",
+    "url": "db://assets/textture/gamePlayImages/restartButton.png",
     "value": {
       "depends": []
     }
   },
   "1cd26629-252e-401c-b8d3-edf20dc97d95@f9941": {
-    "url": "db://assets/Textture/bg.jpeg@f9941",
+    "url": "db://assets/textture/background/bg.jpeg@f9941",
     "value": {
       "depends": [
         "1cd26629-252e-401c-b8d3-edf20dc97d95@6c48a"
@@ -281,13 +252,13 @@
     }
   },
   "a008e933-384a-43ed-986e-bfd10b22c35e": {
-    "url": "db://assets/gamePlayImages/scorePanel.png",
+    "url": "db://assets/textture/gamePlayImages/scorePanel.png",
     "value": {
       "depends": []
     }
   },
   "fdaee96a-604a-42a3-ba0c-3f061c8f60b6@6c48a": {
-    "url": "db://assets/gamePlayImages/backButton.png@6c48a",
+    "url": "db://assets/textture/gamePlayImages/backButton.png@6c48a",
     "value": {
       "depends": [
         "fdaee96a-604a-42a3-ba0c-3f061c8f60b6"
@@ -295,7 +266,7 @@
     }
   },
   "ec6d6161-9c5c-4033-8a55-41b4939f1c03@6c48a": {
-    "url": "db://assets/gamePlayImages/nextButton.png@6c48a",
+    "url": "db://assets/textture/gamePlayImages/nextButton.png@6c48a",
     "value": {
       "depends": [
         "ec6d6161-9c5c-4033-8a55-41b4939f1c03"
@@ -303,7 +274,7 @@
     }
   },
   "5678d63b-0cbe-4f0e-9e88-160d79cabc43@6c48a": {
-    "url": "db://assets/gamePlayImages/frame.png@6c48a",
+    "url": "db://assets/textture/gamePlayImages/frame.png@6c48a",
     "value": {
       "depends": [
         "5678d63b-0cbe-4f0e-9e88-160d79cabc43"
@@ -311,7 +282,7 @@
     }
   },
   "fdaee96a-604a-42a3-ba0c-3f061c8f60b6@f9941": {
-    "url": "db://assets/gamePlayImages/backButton.png@f9941",
+    "url": "db://assets/textture/gamePlayImages/backButton.png@f9941",
     "value": {
       "depends": [
         "fdaee96a-604a-42a3-ba0c-3f061c8f60b6@6c48a"
@@ -319,13 +290,13 @@
     }
   },
   "afbfcc30-81c6-4ad0-a90e-9d174dee7bba": {
-    "url": "db://assets/gamePlayImages/settingsButton.png",
+    "url": "db://assets/textture/gamePlayImages/settingsButton.png",
     "value": {
       "depends": []
     }
   },
   "ec6d6161-9c5c-4033-8a55-41b4939f1c03@f9941": {
-    "url": "db://assets/gamePlayImages/nextButton.png@f9941",
+    "url": "db://assets/textture/gamePlayImages/nextButton.png@f9941",
     "value": {
       "depends": [
         "ec6d6161-9c5c-4033-8a55-41b4939f1c03@6c48a"
@@ -333,13 +304,13 @@
     }
   },
   "2a533f9d-ccc3-4078-bbbe-1c70f07e39f3": {
-    "url": "db://assets/gamePlayImages/whiteBg.jpeg",
+    "url": "db://assets/textture/background/whiteBg.jpeg",
     "value": {
       "depends": []
     }
   },
   "a667607e-da66-4733-a98c-08dbd164b905@6c48a": {
-    "url": "db://assets/gamePlayImages/restartButton.png@6c48a",
+    "url": "db://assets/textture/gamePlayImages/restartButton.png@6c48a",
     "value": {
       "depends": [
         "a667607e-da66-4733-a98c-08dbd164b905"
@@ -347,7 +318,7 @@
     }
   },
   "a008e933-384a-43ed-986e-bfd10b22c35e@6c48a": {
-    "url": "db://assets/gamePlayImages/scorePanel.png@6c48a",
+    "url": "db://assets/textture/gamePlayImages/scorePanel.png@6c48a",
     "value": {
       "depends": [
         "a008e933-384a-43ed-986e-bfd10b22c35e"
@@ -355,7 +326,7 @@
     }
   },
   "5678d63b-0cbe-4f0e-9e88-160d79cabc43@f9941": {
-    "url": "db://assets/gamePlayImages/frame.png@f9941",
+    "url": "db://assets/textture/gamePlayImages/frame.png@f9941",
     "value": {
       "depends": [
         "5678d63b-0cbe-4f0e-9e88-160d79cabc43@6c48a"
@@ -369,7 +340,7 @@
     }
   },
   "a667607e-da66-4733-a98c-08dbd164b905@f9941": {
-    "url": "db://assets/gamePlayImages/restartButton.png@f9941",
+    "url": "db://assets/textture/gamePlayImages/restartButton.png@f9941",
     "value": {
       "depends": [
         "a667607e-da66-4733-a98c-08dbd164b905@6c48a"
@@ -377,7 +348,7 @@
     }
   },
   "2a533f9d-ccc3-4078-bbbe-1c70f07e39f3@6c48a": {
-    "url": "db://assets/gamePlayImages/whiteBg.jpeg@6c48a",
+    "url": "db://assets/textture/background/whiteBg.jpeg@6c48a",
     "value": {
       "depends": [
         "2a533f9d-ccc3-4078-bbbe-1c70f07e39f3"
@@ -385,7 +356,7 @@
     }
   },
   "a008e933-384a-43ed-986e-bfd10b22c35e@f9941": {
-    "url": "db://assets/gamePlayImages/scorePanel.png@f9941",
+    "url": "db://assets/textture/gamePlayImages/scorePanel.png@f9941",
     "value": {
       "depends": [
         "a008e933-384a-43ed-986e-bfd10b22c35e@6c48a"
@@ -413,7 +384,7 @@
     }
   },
   "afbfcc30-81c6-4ad0-a90e-9d174dee7bba@6c48a": {
-    "url": "db://assets/gamePlayImages/settingsButton.png@6c48a",
+    "url": "db://assets/textture/gamePlayImages/settingsButton.png@6c48a",
     "value": {
       "depends": [
         "afbfcc30-81c6-4ad0-a90e-9d174dee7bba"
@@ -421,7 +392,7 @@
     }
   },
   "2a533f9d-ccc3-4078-bbbe-1c70f07e39f3@f9941": {
-    "url": "db://assets/gamePlayImages/whiteBg.jpeg@f9941",
+    "url": "db://assets/textture/background/whiteBg.jpeg@f9941",
     "value": {
       "depends": [
         "2a533f9d-ccc3-4078-bbbe-1c70f07e39f3@6c48a"
@@ -435,7 +406,7 @@
     }
   },
   "afbfcc30-81c6-4ad0-a90e-9d174dee7bba@f9941": {
-    "url": "db://assets/gamePlayImages/settingsButton.png@f9941",
+    "url": "db://assets/textture/gamePlayImages/settingsButton.png@f9941",
     "value": {
       "depends": [
         "afbfcc30-81c6-4ad0-a90e-9d174dee7bba@6c48a"
@@ -860,9 +831,7 @@
   },
   "e61edc04-6249-411a-90fd-31ccc06a73fd": {
     "url": "db://assets/resources/backGround/backGround.jpeg",
-    "value": {
-      "depends": []
-    }
+    "value": {}
   },
   "76726b24-bc9f-491f-a3ac-78bac0665e74@6c48a": {
     "url": "db://assets/resources/Images/mom3.png@6c48a",
@@ -874,9 +843,7 @@
   },
   "faa39952-62b7-4ab0-87ce-49d3f21fd613": {
     "url": "db://assets/resources/backGround/back_pressed.png",
-    "value": {
-      "depends": []
-    }
+    "value": {}
   },
   "d830c032-262c-41be-8ab6-9944cb649fcc@f9941": {
     "url": "db://assets/resources/Images/mom2.png@f9941",
@@ -887,7 +854,7 @@
     }
   },
   "8a7f2e95-cb3f-4958-a5c6-ecef4ec6b837": {
-    "url": "db://assets/resources/backGround/background.png",
+    "url": "db://assets/textture/background/background.png",
     "value": {
       "depends": []
     }
@@ -901,7 +868,7 @@
     }
   },
   "8a7f2e95-cb3f-4958-a5c6-ecef4ec6b837@6c48a": {
-    "url": "db://assets/resources/backGround/background.png@6c48a",
+    "url": "db://assets/textture/background/background.png@6c48a",
     "value": {
       "depends": [
         "8a7f2e95-cb3f-4958-a5c6-ecef4ec6b837"
@@ -925,7 +892,7 @@
     }
   },
   "e3caab33-0f33-4556-8934-4ee0918fac1e": {
-    "url": "db://assets/resources/landing/bottomRocks.png",
+    "url": "db://assets/textture/landing/bottomRocks.png",
     "value": {
       "depends": []
     }
@@ -939,7 +906,7 @@
     }
   },
   "8a7f2e95-cb3f-4958-a5c6-ecef4ec6b837@f9941": {
-    "url": "db://assets/resources/backGround/background.png@f9941",
+    "url": "db://assets/textture/background/background.png@f9941",
     "value": {
       "depends": [
         "8a7f2e95-cb3f-4958-a5c6-ecef4ec6b837@6c48a"
@@ -947,7 +914,7 @@
     }
   },
   "fcc97927-1763-4a3e-8a2d-bb620a011c96": {
-    "url": "db://assets/resources/landing/gameBG.png",
+    "url": "db://assets/textture/landing/gameBG.png",
     "value": {
       "depends": []
     }
@@ -961,7 +928,7 @@
     }
   },
   "e03c609f-978a-4d5d-9b57-80f3a7adeb1d": {
-    "url": "db://assets/resources/landing/logo.png",
+    "url": "db://assets/textture/landing/logo.png",
     "value": {
       "depends": []
     }
@@ -975,7 +942,7 @@
     }
   },
   "c4ff86df-51f6-4209-a25b-5460ebb9c3a6": {
-    "url": "db://assets/resources/landing/splashScreen.png",
+    "url": "db://assets/textture/landing/splashScreen.png",
     "value": {
       "depends": []
     }
@@ -989,13 +956,13 @@
     }
   },
   "4dcb69d5-cdea-46db-8689-c5859cbdce9c": {
-    "url": "db://assets/resources/landing/startGameButton.png",
+    "url": "db://assets/textture/landing/startGameButton.png",
     "value": {
       "depends": []
     }
   },
   "e3caab33-0f33-4556-8934-4ee0918fac1e@6c48a": {
-    "url": "db://assets/resources/landing/bottomRocks.png@6c48a",
+    "url": "db://assets/textture/landing/bottomRocks.png@6c48a",
     "value": {
       "depends": [
         "e3caab33-0f33-4556-8934-4ee0918fac1e"
@@ -1003,7 +970,7 @@
     }
   },
   "fcc97927-1763-4a3e-8a2d-bb620a011c96@6c48a": {
-    "url": "db://assets/resources/landing/gameBG.png@6c48a",
+    "url": "db://assets/textture/landing/gameBG.png@6c48a",
     "value": {
       "depends": [
         "fcc97927-1763-4a3e-8a2d-bb620a011c96"
@@ -1011,7 +978,7 @@
     }
   },
   "e03c609f-978a-4d5d-9b57-80f3a7adeb1d@6c48a": {
-    "url": "db://assets/resources/landing/logo.png@6c48a",
+    "url": "db://assets/textture/landing/logo.png@6c48a",
     "value": {
       "depends": [
         "e03c609f-978a-4d5d-9b57-80f3a7adeb1d"
@@ -1019,7 +986,7 @@
     }
   },
   "c4ff86df-51f6-4209-a25b-5460ebb9c3a6@6c48a": {
-    "url": "db://assets/resources/landing/splashScreen.png@6c48a",
+    "url": "db://assets/textture/landing/splashScreen.png@6c48a",
     "value": {
       "depends": [
         "c4ff86df-51f6-4209-a25b-5460ebb9c3a6"
@@ -1027,7 +994,7 @@
     }
   },
   "4dcb69d5-cdea-46db-8689-c5859cbdce9c@6c48a": {
-    "url": "db://assets/resources/landing/startGameButton.png@6c48a",
+    "url": "db://assets/textture/landing/startGameButton.png@6c48a",
     "value": {
       "depends": [
         "4dcb69d5-cdea-46db-8689-c5859cbdce9c"
@@ -1035,7 +1002,7 @@
     }
   },
   "e3caab33-0f33-4556-8934-4ee0918fac1e@f9941": {
-    "url": "db://assets/resources/landing/bottomRocks.png@f9941",
+    "url": "db://assets/textture/landing/bottomRocks.png@f9941",
     "value": {
       "depends": [
         "e3caab33-0f33-4556-8934-4ee0918fac1e@6c48a"
@@ -1043,7 +1010,7 @@
     }
   },
   "c4ff86df-51f6-4209-a25b-5460ebb9c3a6@f9941": {
-    "url": "db://assets/resources/landing/splashScreen.png@f9941",
+    "url": "db://assets/textture/landing/splashScreen.png@f9941",
     "value": {
       "depends": [
         "c4ff86df-51f6-4209-a25b-5460ebb9c3a6@6c48a"
@@ -1051,7 +1018,7 @@
     }
   },
   "e03c609f-978a-4d5d-9b57-80f3a7adeb1d@f9941": {
-    "url": "db://assets/resources/landing/logo.png@f9941",
+    "url": "db://assets/textture/landing/logo.png@f9941",
     "value": {
       "depends": [
         "e03c609f-978a-4d5d-9b57-80f3a7adeb1d@6c48a"
@@ -1059,7 +1026,7 @@
     }
   },
   "4dcb69d5-cdea-46db-8689-c5859cbdce9c@f9941": {
-    "url": "db://assets/resources/landing/startGameButton.png@f9941",
+    "url": "db://assets/textture/landing/startGameButton.png@f9941",
     "value": {
       "depends": [
         "4dcb69d5-cdea-46db-8689-c5859cbdce9c@6c48a"
@@ -1067,7 +1034,7 @@
     }
   },
   "fcc97927-1763-4a3e-8a2d-bb620a011c96@f9941": {
-    "url": "db://assets/resources/landing/gameBG.png@f9941",
+    "url": "db://assets/textture/landing/gameBG.png@f9941",
     "value": {
       "depends": [
         "fcc97927-1763-4a3e-8a2d-bb620a011c96@6c48a"
@@ -1087,41 +1054,41 @@
     }
   },
   "620955c4-b4c1-4774-a1d7-04c71067d470": {
-    "url": "db://assets/resources/settingImages",
+    "url": "db://assets/textture/settingImages",
     "value": {}
   },
   "fbb6d23c-5de8-4a2b-82a7-de26d40ba541": {
-    "url": "db://assets/resources/settingImages/aboutButton.png",
+    "url": "db://assets/textture/settingImages/aboutButton.png",
     "value": {
       "depends": []
     }
   },
   "9d6f6bc7-aae4-478f-ab74-53b59069ff5d": {
-    "url": "db://assets/resources/settingImages/background.png",
+    "url": "db://assets/textture/settingImages/background.png",
     "value": {
       "depends": []
     }
   },
   "04e5aef8-a05a-46c8-a501-4e5d93efa569": {
-    "url": "db://assets/resources/settingImages/crossButton.png",
+    "url": "db://assets/textture/settingImages/crossButton.png",
     "value": {
       "depends": []
     }
   },
   "176332fa-5b84-4c2c-ab32-501941313dac": {
-    "url": "db://assets/resources/settingImages/settingsHeader.png",
+    "url": "db://assets/textture/settingImages/settingsHeader.png",
     "value": {
       "depends": []
     }
   },
   "f3584ec6-cbde-462f-bb90-68b96d529bb0": {
-    "url": "db://assets/resources/settingImages/settingsPanel.png",
+    "url": "db://assets/textture/settingImages/settingsPanel.png",
     "value": {
       "depends": []
     }
   },
   "9d6f6bc7-aae4-478f-ab74-53b59069ff5d@6c48a": {
-    "url": "db://assets/resources/settingImages/background.png@6c48a",
+    "url": "db://assets/textture/settingImages/background.png@6c48a",
     "value": {
       "depends": [
         "9d6f6bc7-aae4-478f-ab74-53b59069ff5d"
@@ -1129,7 +1096,7 @@
     }
   },
   "fbb6d23c-5de8-4a2b-82a7-de26d40ba541@6c48a": {
-    "url": "db://assets/resources/settingImages/aboutButton.png@6c48a",
+    "url": "db://assets/textture/settingImages/aboutButton.png@6c48a",
     "value": {
       "depends": [
         "fbb6d23c-5de8-4a2b-82a7-de26d40ba541"
@@ -1137,7 +1104,7 @@
     }
   },
   "04e5aef8-a05a-46c8-a501-4e5d93efa569@6c48a": {
-    "url": "db://assets/resources/settingImages/crossButton.png@6c48a",
+    "url": "db://assets/textture/settingImages/crossButton.png@6c48a",
     "value": {
       "depends": [
         "04e5aef8-a05a-46c8-a501-4e5d93efa569"
@@ -1145,7 +1112,7 @@
     }
   },
   "176332fa-5b84-4c2c-ab32-501941313dac@6c48a": {
-    "url": "db://assets/resources/settingImages/settingsHeader.png@6c48a",
+    "url": "db://assets/textture/settingImages/settingsHeader.png@6c48a",
     "value": {
       "depends": [
         "176332fa-5b84-4c2c-ab32-501941313dac"
@@ -1153,7 +1120,7 @@
     }
   },
   "9d6f6bc7-aae4-478f-ab74-53b59069ff5d@f9941": {
-    "url": "db://assets/resources/settingImages/background.png@f9941",
+    "url": "db://assets/textture/settingImages/background.png@f9941",
     "value": {
       "depends": [
         "9d6f6bc7-aae4-478f-ab74-53b59069ff5d@6c48a"
@@ -1161,13 +1128,13 @@
     }
   },
   "1578cd94-7a4d-41ac-b5b5-26d73177d047": {
-    "url": "db://assets/resources/settingImages/toggleOff.png",
+    "url": "db://assets/textture/settingImages/toggleOff.png",
     "value": {
       "depends": []
     }
   },
   "fbb6d23c-5de8-4a2b-82a7-de26d40ba541@f9941": {
-    "url": "db://assets/resources/settingImages/aboutButton.png@f9941",
+    "url": "db://assets/textture/settingImages/aboutButton.png@f9941",
     "value": {
       "depends": [
         "fbb6d23c-5de8-4a2b-82a7-de26d40ba541@6c48a"
@@ -1175,13 +1142,13 @@
     }
   },
   "de8170c4-c3b2-4268-8f22-2ba9c78a8a9d": {
-    "url": "db://assets/resources/settingImages/toggleOn.png",
+    "url": "db://assets/textture/settingImages/toggleOn.png",
     "value": {
       "depends": []
     }
   },
   "04e5aef8-a05a-46c8-a501-4e5d93efa569@f9941": {
-    "url": "db://assets/resources/settingImages/crossButton.png@f9941",
+    "url": "db://assets/textture/settingImages/crossButton.png@f9941",
     "value": {
       "depends": [
         "04e5aef8-a05a-46c8-a501-4e5d93efa569@6c48a"
@@ -1189,7 +1156,7 @@
     }
   },
   "f3584ec6-cbde-462f-bb90-68b96d529bb0@6c48a": {
-    "url": "db://assets/resources/settingImages/settingsPanel.png@6c48a",
+    "url": "db://assets/textture/settingImages/settingsPanel.png@6c48a",
     "value": {
       "depends": [
         "f3584ec6-cbde-462f-bb90-68b96d529bb0"
@@ -1197,7 +1164,7 @@
     }
   },
   "176332fa-5b84-4c2c-ab32-501941313dac@f9941": {
-    "url": "db://assets/resources/settingImages/settingsHeader.png@f9941",
+    "url": "db://assets/textture/settingImages/settingsHeader.png@f9941",
     "value": {
       "depends": [
         "176332fa-5b84-4c2c-ab32-501941313dac@6c48a"
@@ -1205,7 +1172,7 @@
     }
   },
   "1578cd94-7a4d-41ac-b5b5-26d73177d047@6c48a": {
-    "url": "db://assets/resources/settingImages/toggleOff.png@6c48a",
+    "url": "db://assets/textture/settingImages/toggleOff.png@6c48a",
     "value": {
       "depends": [
         "1578cd94-7a4d-41ac-b5b5-26d73177d047"
@@ -1213,7 +1180,7 @@
     }
   },
   "de8170c4-c3b2-4268-8f22-2ba9c78a8a9d@6c48a": {
-    "url": "db://assets/resources/settingImages/toggleOn.png@6c48a",
+    "url": "db://assets/textture/settingImages/toggleOn.png@6c48a",
     "value": {
       "depends": [
         "de8170c4-c3b2-4268-8f22-2ba9c78a8a9d"
@@ -1221,7 +1188,7 @@
     }
   },
   "f3584ec6-cbde-462f-bb90-68b96d529bb0@f9941": {
-    "url": "db://assets/resources/settingImages/settingsPanel.png@f9941",
+    "url": "db://assets/textture/settingImages/settingsPanel.png@f9941",
     "value": {
       "depends": [
         "f3584ec6-cbde-462f-bb90-68b96d529bb0@6c48a"
@@ -1229,7 +1196,7 @@
     }
   },
   "1578cd94-7a4d-41ac-b5b5-26d73177d047@f9941": {
-    "url": "db://assets/resources/settingImages/toggleOff.png@f9941",
+    "url": "db://assets/textture/settingImages/toggleOff.png@f9941",
     "value": {
       "depends": [
         "1578cd94-7a4d-41ac-b5b5-26d73177d047@6c48a"
@@ -1237,7 +1204,7 @@
     }
   },
   "de8170c4-c3b2-4268-8f22-2ba9c78a8a9d@f9941": {
-    "url": "db://assets/resources/settingImages/toggleOn.png@f9941",
+    "url": "db://assets/textture/settingImages/toggleOn.png@f9941",
     "value": {
       "depends": [
         "de8170c4-c3b2-4268-8f22-2ba9c78a8a9d@6c48a"
@@ -1245,19 +1212,19 @@
     }
   },
   "14e9c70c-1e5a-49b9-99bc-c56be428aa93": {
-    "url": "db://assets/Scripts/Managers",
+    "url": "db://assets/scripts/managers",
     "value": {}
   },
   "e0c1ab15-4a0c-4a9e-8299-08545f12ce2d": {
-    "url": "db://assets/Scripts/Managers/ResourceUtils.ts",
+    "url": "db://assets/scripts/managers/resourceUtils.ts",
     "value": {}
   },
   "12303d40-7993-4bda-8bbf-33bdaa5ad2ec": {
-    "url": "db://assets/Scripts/Managers/SoundManager.ts",
+    "url": "db://assets/scripts/managers/soundManager.ts",
     "value": {}
   },
   "a0ecfc4f-cdeb-4078-8eb8-9dd27b62bba0": {
-    "url": "db://assets/Prefabs/mainSetting.prefab",
+    "url": "db://assets/prefabs/mainSetting.prefab",
     "value": {
       "depends": [
         "9d6f6bc7-aae4-478f-ab74-53b59069ff5d@f9941",
@@ -1294,11 +1261,11 @@
     }
   },
   "ec80540e-7f90-490f-8646-ebb9dd9df4aa": {
-    "url": "db://assets/Scripts/SettingMenu.ts",
+    "url": "db://assets/scripts/settingMenu.ts",
     "value": {}
   },
   "cc0c67cc-b29a-4d90-a5f9-b6cec663a50c": {
-    "url": "db://assets/Prefabs/End.prefab",
+    "url": "db://assets/prefabs/endScene.prefab",
     "value": {
       "depends": [
         "0ae6f5b3-7c93-4e96-82c1-4e04c04be6ef@f9941"
@@ -1306,13 +1273,13 @@
     }
   },
   "0ae6f5b3-7c93-4e96-82c1-4e04c04be6ef": {
-    "url": "db://assets/gamePlayImages/gameEndScreen.png",
+    "url": "db://assets/textture/gamePlayImages/gameEndScreen.png",
     "value": {
       "depends": []
     }
   },
   "0ae6f5b3-7c93-4e96-82c1-4e04c04be6ef@6c48a": {
-    "url": "db://assets/gamePlayImages/gameEndScreen.png@6c48a",
+    "url": "db://assets/textture/gamePlayImages/gameEndScreen.png@6c48a",
     "value": {
       "depends": [
         "0ae6f5b3-7c93-4e96-82c1-4e04c04be6ef"
@@ -1320,7 +1287,7 @@
     }
   },
   "0ae6f5b3-7c93-4e96-82c1-4e04c04be6ef@f9941": {
-    "url": "db://assets/gamePlayImages/gameEndScreen.png@f9941",
+    "url": "db://assets/textture/gamePlayImages/gameEndScreen.png@f9941",
     "value": {
       "depends": [
         "0ae6f5b3-7c93-4e96-82c1-4e04c04be6ef@6c48a"
@@ -1334,7 +1301,7 @@
     }
   },
   "7cf3288a-a63b-4e8b-96c8-e448b193e497": {
-    "url": "db://assets/resources/Images/baby0.prefab",
+    "url": "db://assets/resources/images/baby0.prefab",
     "value": {
       "depends": [
         "83a7685b-5388-46f9-a7e1-b271a58d0463@f9941"
@@ -1797,18 +1764,526 @@
       ]
     }
   },
-  "87e457e2-17ba-41fa-9396-ce894a3e2dfe": {
-    "url": "db://assets/resources/Images/baby0.png",
+  "736bf2bb-f9fd-403d-a9c4-5e0bf4691ced": {
+    "url": "db://assets/resources/images/baby0.png",
     "value": {
       "depends": []
     }
   },
-  "87e457e2-17ba-41fa-9396-ce894a3e2dfe@6c48a": {
-    "url": "db://assets/resources/Images/baby0.png@6c48a",
+  "c76f2b5e-d208-40ac-86a9-796015939cd6": {
+    "url": "db://assets/resources/images/baby1.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "eadf4ef8-8830-4dae-b430-718db1d36bf3": {
+    "url": "db://assets/resources/images/baby2.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "7625d23e-5310-4160-b673-6813657e70d2": {
+    "url": "db://assets/resources/images/baby3.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "b3b5606d-bb11-4c70-9091-53d5e636ee16": {
+    "url": "db://assets/resources/images/baby4.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "c76f2b5e-d208-40ac-86a9-796015939cd6@6c48a": {
+    "url": "db://assets/resources/images/baby1.png@6c48a",
     "value": {
       "depends": [
-        "87e457e2-17ba-41fa-9396-ce894a3e2dfe"
+        "c76f2b5e-d208-40ac-86a9-796015939cd6"
       ]
     }
+  },
+  "736bf2bb-f9fd-403d-a9c4-5e0bf4691ced@6c48a": {
+    "url": "db://assets/resources/images/baby0.png@6c48a",
+    "value": {
+      "depends": [
+        "736bf2bb-f9fd-403d-a9c4-5e0bf4691ced"
+      ]
+    }
+  },
+  "7625d23e-5310-4160-b673-6813657e70d2@6c48a": {
+    "url": "db://assets/resources/images/baby3.png@6c48a",
+    "value": {
+      "depends": [
+        "7625d23e-5310-4160-b673-6813657e70d2"
+      ]
+    }
+  },
+  "736bf2bb-f9fd-403d-a9c4-5e0bf4691ced@f9941": {
+    "url": "db://assets/resources/images/baby0.png@f9941",
+    "value": {
+      "depends": [
+        "736bf2bb-f9fd-403d-a9c4-5e0bf4691ced@6c48a"
+      ]
+    }
+  },
+  "d8fb2e01-0bd6-42a7-8c66-3ce11bcc3d69": {
+    "url": "db://assets/resources/images/babyMermaid0.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "c76f2b5e-d208-40ac-86a9-796015939cd6@f9941": {
+    "url": "db://assets/resources/images/baby1.png@f9941",
+    "value": {
+      "depends": [
+        "c76f2b5e-d208-40ac-86a9-796015939cd6@6c48a"
+      ]
+    }
+  },
+  "67e7b111-99a5-4910-a47d-325adc623e62": {
+    "url": "db://assets/resources/images/babyMermaid1.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "eadf4ef8-8830-4dae-b430-718db1d36bf3@6c48a": {
+    "url": "db://assets/resources/images/baby2.png@6c48a",
+    "value": {
+      "depends": [
+        "eadf4ef8-8830-4dae-b430-718db1d36bf3"
+      ]
+    }
+  },
+  "b3b5606d-bb11-4c70-9091-53d5e636ee16@6c48a": {
+    "url": "db://assets/resources/images/baby4.png@6c48a",
+    "value": {
+      "depends": [
+        "b3b5606d-bb11-4c70-9091-53d5e636ee16"
+      ]
+    }
+  },
+  "7625d23e-5310-4160-b673-6813657e70d2@f9941": {
+    "url": "db://assets/resources/images/baby3.png@f9941",
+    "value": {
+      "depends": [
+        "7625d23e-5310-4160-b673-6813657e70d2@6c48a"
+      ]
+    }
+  },
+  "21036948-3e14-47e7-971d-14fe4b7a68ba": {
+    "url": "db://assets/resources/images/babyMermaid2.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "eadf4ef8-8830-4dae-b430-718db1d36bf3@f9941": {
+    "url": "db://assets/resources/images/baby2.png@f9941",
+    "value": {
+      "depends": [
+        "eadf4ef8-8830-4dae-b430-718db1d36bf3@6c48a"
+      ]
+    }
+  },
+  "f0fa1156-c17d-42fa-ab9e-0e6146b501da": {
+    "url": "db://assets/resources/images/babyMermaid3.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "b3b5606d-bb11-4c70-9091-53d5e636ee16@f9941": {
+    "url": "db://assets/resources/images/baby4.png@f9941",
+    "value": {
+      "depends": [
+        "b3b5606d-bb11-4c70-9091-53d5e636ee16@6c48a"
+      ]
+    }
+  },
+  "6298e303-8c12-490a-a774-edf982cc7c02": {
+    "url": "db://assets/resources/images/babyMermaid4.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "d8fb2e01-0bd6-42a7-8c66-3ce11bcc3d69@6c48a": {
+    "url": "db://assets/resources/images/babyMermaid0.png@6c48a",
+    "value": {
+      "depends": [
+        "d8fb2e01-0bd6-42a7-8c66-3ce11bcc3d69"
+      ]
+    }
+  },
+  "67e7b111-99a5-4910-a47d-325adc623e62@6c48a": {
+    "url": "db://assets/resources/images/babyMermaid1.png@6c48a",
+    "value": {
+      "depends": [
+        "67e7b111-99a5-4910-a47d-325adc623e62"
+      ]
+    }
+  },
+  "d8fb2e01-0bd6-42a7-8c66-3ce11bcc3d69@f9941": {
+    "url": "db://assets/resources/images/babyMermaid0.png@f9941",
+    "value": {
+      "depends": [
+        "d8fb2e01-0bd6-42a7-8c66-3ce11bcc3d69@6c48a"
+      ]
+    }
+  },
+  "e4099b81-a73f-4883-b44f-417b696ee815": {
+    "url": "db://assets/resources/images/mermaidMom0.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "21036948-3e14-47e7-971d-14fe4b7a68ba@6c48a": {
+    "url": "db://assets/resources/images/babyMermaid2.png@6c48a",
+    "value": {
+      "depends": [
+        "21036948-3e14-47e7-971d-14fe4b7a68ba"
+      ]
+    }
+  },
+  "f0fa1156-c17d-42fa-ab9e-0e6146b501da@6c48a": {
+    "url": "db://assets/resources/images/babyMermaid3.png@6c48a",
+    "value": {
+      "depends": [
+        "f0fa1156-c17d-42fa-ab9e-0e6146b501da"
+      ]
+    }
+  },
+  "67e7b111-99a5-4910-a47d-325adc623e62@f9941": {
+    "url": "db://assets/resources/images/babyMermaid1.png@f9941",
+    "value": {
+      "depends": [
+        "67e7b111-99a5-4910-a47d-325adc623e62@6c48a"
+      ]
+    }
+  },
+  "e1a21851-ff11-4e35-9988-3d52da5eb856": {
+    "url": "db://assets/resources/images/mermaidMom1.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "6298e303-8c12-490a-a774-edf982cc7c02@6c48a": {
+    "url": "db://assets/resources/images/babyMermaid4.png@6c48a",
+    "value": {
+      "depends": [
+        "6298e303-8c12-490a-a774-edf982cc7c02"
+      ]
+    }
+  },
+  "21036948-3e14-47e7-971d-14fe4b7a68ba@f9941": {
+    "url": "db://assets/resources/images/babyMermaid2.png@f9941",
+    "value": {
+      "depends": [
+        "21036948-3e14-47e7-971d-14fe4b7a68ba@6c48a"
+      ]
+    }
+  },
+  "f0fa1156-c17d-42fa-ab9e-0e6146b501da@f9941": {
+    "url": "db://assets/resources/images/babyMermaid3.png@f9941",
+    "value": {
+      "depends": [
+        "f0fa1156-c17d-42fa-ab9e-0e6146b501da@6c48a"
+      ]
+    }
+  },
+  "de6e83ee-45ab-4dd2-b6a3-c927f48d71f8": {
+    "url": "db://assets/resources/images/mermaidMom2.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "8c1703cb-c80a-4205-b78f-90bc89098bf4": {
+    "url": "db://assets/resources/images/mermaidMom3.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "6298e303-8c12-490a-a774-edf982cc7c02@f9941": {
+    "url": "db://assets/resources/images/babyMermaid4.png@f9941",
+    "value": {
+      "depends": [
+        "6298e303-8c12-490a-a774-edf982cc7c02@6c48a"
+      ]
+    }
+  },
+  "fd3d275e-165f-4e45-a2c8-d1f9ab379ecb": {
+    "url": "db://assets/resources/images/mermaidMom4.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "e4099b81-a73f-4883-b44f-417b696ee815@6c48a": {
+    "url": "db://assets/resources/images/mermaidMom0.png@6c48a",
+    "value": {
+      "depends": [
+        "e4099b81-a73f-4883-b44f-417b696ee815"
+      ]
+    }
+  },
+  "de6e83ee-45ab-4dd2-b6a3-c927f48d71f8@6c48a": {
+    "url": "db://assets/resources/images/mermaidMom2.png@6c48a",
+    "value": {
+      "depends": [
+        "de6e83ee-45ab-4dd2-b6a3-c927f48d71f8"
+      ]
+    }
+  },
+  "e1a21851-ff11-4e35-9988-3d52da5eb856@6c48a": {
+    "url": "db://assets/resources/images/mermaidMom1.png@6c48a",
+    "value": {
+      "depends": [
+        "e1a21851-ff11-4e35-9988-3d52da5eb856"
+      ]
+    }
+  },
+  "de6e83ee-45ab-4dd2-b6a3-c927f48d71f8@f9941": {
+    "url": "db://assets/resources/images/mermaidMom2.png@f9941",
+    "value": {
+      "depends": [
+        "de6e83ee-45ab-4dd2-b6a3-c927f48d71f8@6c48a"
+      ]
+    }
+  },
+  "a7225dca-3d84-4cc2-b224-c35fd4c9e37b": {
+    "url": "db://assets/resources/images/mom0.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "e4099b81-a73f-4883-b44f-417b696ee815@f9941": {
+    "url": "db://assets/resources/images/mermaidMom0.png@f9941",
+    "value": {
+      "depends": [
+        "e4099b81-a73f-4883-b44f-417b696ee815@6c48a"
+      ]
+    }
+  },
+  "954f4401-161b-4a1d-872b-78875967d52b": {
+    "url": "db://assets/resources/images/mom1.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "8c1703cb-c80a-4205-b78f-90bc89098bf4@6c48a": {
+    "url": "db://assets/resources/images/mermaidMom3.png@6c48a",
+    "value": {
+      "depends": [
+        "8c1703cb-c80a-4205-b78f-90bc89098bf4"
+      ]
+    }
+  },
+  "e1a21851-ff11-4e35-9988-3d52da5eb856@f9941": {
+    "url": "db://assets/resources/images/mermaidMom1.png@f9941",
+    "value": {
+      "depends": [
+        "e1a21851-ff11-4e35-9988-3d52da5eb856@6c48a"
+      ]
+    }
+  },
+  "316bc224-b78f-406a-9b61-0efe04b79928": {
+    "url": "db://assets/resources/images/mom2.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "8c1703cb-c80a-4205-b78f-90bc89098bf4@f9941": {
+    "url": "db://assets/resources/images/mermaidMom3.png@f9941",
+    "value": {
+      "depends": [
+        "8c1703cb-c80a-4205-b78f-90bc89098bf4@6c48a"
+      ]
+    }
+  },
+  "55cc89c5-8d8f-4559-9633-2459e844ed79": {
+    "url": "db://assets/resources/images/mom3.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "fd3d275e-165f-4e45-a2c8-d1f9ab379ecb@6c48a": {
+    "url": "db://assets/resources/images/mermaidMom4.png@6c48a",
+    "value": {
+      "depends": [
+        "fd3d275e-165f-4e45-a2c8-d1f9ab379ecb"
+      ]
+    }
+  },
+  "a7225dca-3d84-4cc2-b224-c35fd4c9e37b@6c48a": {
+    "url": "db://assets/resources/images/mom0.png@6c48a",
+    "value": {
+      "depends": [
+        "a7225dca-3d84-4cc2-b224-c35fd4c9e37b"
+      ]
+    }
+  },
+  "954f4401-161b-4a1d-872b-78875967d52b@6c48a": {
+    "url": "db://assets/resources/images/mom1.png@6c48a",
+    "value": {
+      "depends": [
+        "954f4401-161b-4a1d-872b-78875967d52b"
+      ]
+    }
+  },
+  "fd3d275e-165f-4e45-a2c8-d1f9ab379ecb@f9941": {
+    "url": "db://assets/resources/images/mermaidMom4.png@f9941",
+    "value": {
+      "depends": [
+        "fd3d275e-165f-4e45-a2c8-d1f9ab379ecb@6c48a"
+      ]
+    }
+  },
+  "24158c61-d27c-4c84-95b2-3ad95da771be": {
+    "url": "db://assets/resources/images/mom4.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "316bc224-b78f-406a-9b61-0efe04b79928@6c48a": {
+    "url": "db://assets/resources/images/mom2.png@6c48a",
+    "value": {
+      "depends": [
+        "316bc224-b78f-406a-9b61-0efe04b79928"
+      ]
+    }
+  },
+  "a7225dca-3d84-4cc2-b224-c35fd4c9e37b@f9941": {
+    "url": "db://assets/resources/images/mom0.png@f9941",
+    "value": {
+      "depends": [
+        "a7225dca-3d84-4cc2-b224-c35fd4c9e37b@6c48a"
+      ]
+    }
+  },
+  "55cc89c5-8d8f-4559-9633-2459e844ed79@6c48a": {
+    "url": "db://assets/resources/images/mom3.png@6c48a",
+    "value": {
+      "depends": [
+        "55cc89c5-8d8f-4559-9633-2459e844ed79"
+      ]
+    }
+  },
+  "954f4401-161b-4a1d-872b-78875967d52b@f9941": {
+    "url": "db://assets/resources/images/mom1.png@f9941",
+    "value": {
+      "depends": [
+        "954f4401-161b-4a1d-872b-78875967d52b@6c48a"
+      ]
+    }
+  },
+  "316bc224-b78f-406a-9b61-0efe04b79928@f9941": {
+    "url": "db://assets/resources/images/mom2.png@f9941",
+    "value": {
+      "depends": [
+        "316bc224-b78f-406a-9b61-0efe04b79928@6c48a"
+      ]
+    }
+  },
+  "55cc89c5-8d8f-4559-9633-2459e844ed79@f9941": {
+    "url": "db://assets/resources/images/mom3.png@f9941",
+    "value": {
+      "depends": [
+        "55cc89c5-8d8f-4559-9633-2459e844ed79@6c48a"
+      ]
+    }
+  },
+  "24158c61-d27c-4c84-95b2-3ad95da771be@6c48a": {
+    "url": "db://assets/resources/images/mom4.png@6c48a",
+    "value": {
+      "depends": [
+        "24158c61-d27c-4c84-95b2-3ad95da771be"
+      ]
+    }
+  },
+  "24158c61-d27c-4c84-95b2-3ad95da771be@f9941": {
+    "url": "db://assets/resources/images/mom4.png@f9941",
+    "value": {
+      "depends": [
+        "24158c61-d27c-4c84-95b2-3ad95da771be@6c48a"
+      ]
+    }
+  },
+  "1152e7ac-accb-49e7-bfc5-cb98692493be": {
+    "url": "db://assets/prefabs/circularLoader.prefab",
+    "value": {
+      "depends": [
+        "9c63bf13-7ea8-43ff-858c-88f9bb82e435@f9941",
+        "07000371-0ae7-42d3-9510-f6bfc185fe67",
+        "07000371-0ae7-42d3-9510-f6bfc185fe67",
+        "cf85538f-467c-4224-9bec-716df1ee2425@f9941",
+        "cf85538f-467c-4224-9bec-716df1ee2425@f9941"
+      ]
+    }
+  },
+  "a3b34be1-7641-4c84-a3fb-8611b1ced35e": {
+    "url": "db://assets/Scripts/Managers/NewComponent.ts",
+    "value": {}
+  },
+  "32bfc37f-67f4-4eb7-94ce-4e04500d4584": {
+    "url": "db://assets/scripts/circularLoader.ts",
+    "value": {}
+  },
+  "07000371-0ae7-42d3-9510-f6bfc185fe67": {
+    "url": "db://assets/animation/rotation.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "cf85538f-467c-4224-9bec-716df1ee2425": {
+    "url": "db://assets/textture/gamePlayImages/overlay.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "cf85538f-467c-4224-9bec-716df1ee2425@6c48a": {
+    "url": "db://assets/textture/gamePlayImages/overlay.png@6c48a",
+    "value": {
+      "depends": [
+        "cf85538f-467c-4224-9bec-716df1ee2425"
+      ]
+    }
+  },
+  "cf85538f-467c-4224-9bec-716df1ee2425@f9941": {
+    "url": "db://assets/textture/gamePlayImages/overlay.png@f9941",
+    "value": {
+      "depends": [
+        "cf85538f-467c-4224-9bec-716df1ee2425@6c48a"
+      ]
+    }
+  },
+  "9c63bf13-7ea8-43ff-858c-88f9bb82e435": {
+    "url": "db://assets/textture/gamePlayImages/loader.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "9c63bf13-7ea8-43ff-858c-88f9bb82e435@6c48a": {
+    "url": "db://assets/textture/gamePlayImages/loader.png@6c48a",
+    "value": {
+      "depends": [
+        "9c63bf13-7ea8-43ff-858c-88f9bb82e435"
+      ]
+    }
+  },
+  "9c63bf13-7ea8-43ff-858c-88f9bb82e435@f9941": {
+    "url": "db://assets/textture/gamePlayImages/loader.png@f9941",
+    "value": {
+      "depends": [
+        "9c63bf13-7ea8-43ff-858c-88f9bb82e435@6c48a"
+      ]
+    }
+  },
+  "acd5a2d5-3aa6-4c9c-aacd-84808349edb8": {
+    "url": "db://assets/animation",
+    "value": {}
+  },
+  "785a9007-a08b-408f-9e6c-e23a30f539a1": {
+    "url": "db://assets/scene",
+    "value": {}
+  },
+  "dfa8c322-750e-4b0f-9131-c43c3e587b07": {
+    "url": "db://assets/textture/background",
+    "value": {}
   }
 }

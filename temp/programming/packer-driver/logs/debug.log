@@ -1,11 +1,11 @@
-debug: Thu, 01 Dec 2022 08:28:48 GMT
+debug: Fri, 02 Dec 2022 07:57:11 GMT
 debug: Project: /Users/abhishekrawat/Documents/Git/Mommy-mermed
 debug: Targets: editor,preview
 debug: Incremental file seems great.
 debug: Engine path: /Applications/CocosCreator/Creator/3.6.1/CocosCreator.app/Contents/Resources/resources/3d/engine
 debug: Initializing target [Editor]
 debug: Loading cache
-debug: Loading cache costs 0.7165839988738298ms.
+debug: Loading cache costs 1.0824580006301403ms.
 debug: Engine features shipped in editor: base,gfx-webgl,gfx-webgl2,3d,animation,skeletal-animation,2d,ui,particle,particle-2d,physics-framework,physics-2d-framework,intersection-2d,primitive,profiler,occlusion-query,geometry-renderer,debug-renderer,audio,video,xr,terrain,webview,tween,tiled-map,spine,dragon-bones,marionette,custom-pipeline
 debug: Our import map(foo:/bar): {
   "imports": {
@@ -14,7 +14,7 @@ debug: Our import map(foo:/bar): {
 }
 debug: Initializing target [Preview]
 debug: Loading cache
-debug: Loading cache costs 0.5428749993443489ms.
+debug: Loading cache costs 0.8595000002533197ms.
 debug: Our import map(foo:/bar): {
   "imports": {
     "cc": "cce:/internal/x/cc"
@@ -46,9 +46,9 @@ debug: Our import map(foo:/bar): {
   }
 }
 debug: Pulling asset-db.
-debug: Fetch asset-db cost: 3.137915998697281ms.
+debug: Fetch asset-db cost: 3.461583999916911ms.
 debug: Build iteration starts.
-Number of accumulated asset changes: 11
+Number of accumulated asset changes: 12
 Feature changed: false
 debug: Target(editor) build started.
 debug: Detected change: cce:/internal/x/cc. Last mtime: Thu Jan 01 1970 05:30:03 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:30:03 GMT+0530 (India Standard Time)
@@ -79,78 +79,93 @@ debug: Resolve cce:/internal/x/cc-fu/tiled-map from cce:/internal/x/cc as extern
 debug: Resolve cce:/internal/x/cc-fu/spine from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/spine.
 debug: Resolve cce:/internal/x/cc-fu/dragon-bones from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/dragon-bones.
 debug: Resolve cce:/internal/x/cc-fu/custom-pipeline from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/custom-pipeline.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:30:04 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:30:03 GMT+0530 (India Standard Time)
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:15:12 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:30:03 GMT+0530 (India Standard Time)
 debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Audio.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Audio.ts.
-debug: Inspect file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Audio.ts
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Audio.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Audio.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Audio.ts as cce:/internal/x/cc.
-debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/FitSprite.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/FitSprite.ts.
-debug: Inspect file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/FitSprite.ts
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/FitSprite.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/FitSprite.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/FitSprite.ts as cce:/internal/x/cc.
-debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/GamePlay.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/GamePlay.ts.
-debug: Inspect file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/GamePlay.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/GamePlay.ts as cce:/internal/code-quality/cr.mjs.
-debug: Detected change: cce:/internal/code-quality/cr.mjs. Last mtime: Thu Dec 01 2022 13:36:41 GMT+0530 (India Standard Time), Current mtime: Thu Dec 01 2022 13:58:44 GMT+0530 (India Standard Time)
+debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/audio.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/audio.ts.
+debug: Inspect file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/audio.ts
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/audio.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/audio.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/audio.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/circularLoader.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/circularLoader.ts.
+debug: Inspect file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/circularLoader.ts
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/circularLoader.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/circularLoader.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/circularLoader.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/fitSprite.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/fitSprite.ts.
+debug: Inspect file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/fitSprite.ts
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/fitSprite.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/fitSprite.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/fitSprite.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/gamePlay.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/gamePlay.ts.
+debug: Inspect file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/gamePlay.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/gamePlay.ts as cce:/internal/code-quality/cr.mjs.
+debug: Detected change: cce:/internal/code-quality/cr.mjs. Last mtime: Fri Dec 02 2022 10:30:28 GMT+0530 (India Standard Time), Current mtime: Fri Dec 02 2022 13:27:08 GMT+0530 (India Standard Time)
 debug: Inspect cce:/internal/code-quality/cr.mjs
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/GamePlay.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/GamePlay.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/GamePlay.ts as cce:/internal/x/cc.
-debug: Resolve ./photoSlice2 from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/GamePlay.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/photoSlice2.ts.
-debug: Inspect file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/photoSlice2.ts
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/photoSlice2.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/photoSlice2.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/photoSlice2.ts as cce:/internal/x/cc.
-debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/ResourceUtils.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/ResourceUtils.ts.
-debug: Inspect file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/ResourceUtils.ts
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/ResourceUtils.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/ResourceUtils.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/ResourceUtils.ts as cce:/internal/x/cc.
-debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/SoundManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/SoundManager.ts.
-debug: Inspect file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/SoundManager.ts
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/SoundManager.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/SoundManager.ts as cce:/internal/x/cc.
-debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SettingMenu.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SettingMenu.ts.
-debug: Inspect file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SettingMenu.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SettingMenu.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SettingMenu.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SettingMenu.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SettingMenu.ts as cce:/internal/x/cc.
-debug: Resolve ./SingleTon from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SettingMenu.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SingleTon.ts.
-debug: Inspect file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SingleTon.ts
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SingleTon.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SingleTon.ts as cce:/internal/x/cc.
-debug: Resolve ./Managers/SoundManager from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SettingMenu.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/SoundManager.ts.
-debug: Resolve ./Managers/ResourceUtils from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SettingMenu.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/ResourceUtils.ts.
-debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SingleTon.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SingleTon.ts.
-debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/glowing.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/glowing.ts.
-debug: Inspect file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/glowing.ts
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/glowing.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/glowing.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/glowing.ts as cce:/internal/x/cc.
-debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/imageLoad.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/imageLoad.ts.
-debug: Inspect file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/imageLoad.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/imageLoad.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/imageLoad.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/imageLoad.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/imageLoad.ts as cce:/internal/x/cc.
-debug: Resolve ./FitSprite from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/imageLoad.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/FitSprite.ts.
-debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/photoSlice2.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/photoSlice2.ts.
-debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/resourceLoader.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/resourceLoader.ts.
-debug: Inspect file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/resourceLoader.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/resourceLoader.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/resourceLoader.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/resourceLoader.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/resourceLoader.ts as cce:/internal/x/cc.
-debug: Resolve ./GamePlay from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/resourceLoader.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/GamePlay.ts.
-debug: Resolve ./glowing from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/resourceLoader.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/glowing.ts.
-debug: Resolve ./Managers/SoundManager from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/resourceLoader.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/SoundManager.ts.
-debug: Resolve ./SingleTon from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/resourceLoader.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SingleTon.ts.
-debug: Resolve ./Managers/ResourceUtils from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/resourceLoader.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/ResourceUtils.ts.
-debug: Target(editor) ends with cost 339.29241699911654ms.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/gamePlay.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/gamePlay.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/gamePlay.ts as cce:/internal/x/cc.
+debug: Resolve ./managers/resourceUtils from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/gamePlay.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/resourceUtils.ts.
+debug: Inspect file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/resourceUtils.ts
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/resourceUtils.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/resourceUtils.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/resourceUtils.ts as cce:/internal/x/cc.
+debug: Resolve ./managers/soundManager from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/gamePlay.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/soundManager.ts.
+debug: Inspect file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/soundManager.ts
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/soundManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/soundManager.ts as cce:/internal/x/cc.
+debug: Resolve ./photoSlice2 from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/gamePlay.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/photoSlice2.ts.
+debug: Inspect file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/photoSlice2.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/photoSlice2.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/photoSlice2.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/photoSlice2.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/photoSlice2.ts as cce:/internal/x/cc.
+debug: Resolve ./singleTon from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/photoSlice2.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/singleTon.ts.
+debug: Inspect file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/singleTon.ts
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/singleTon.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/singleTon.ts as cce:/internal/x/cc.
+debug: Resolve ./managers/resourceUtils from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/photoSlice2.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/resourceUtils.ts.
+debug: Resolve ./managers/soundManager from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/photoSlice2.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/soundManager.ts.
+debug: Resolve ./singleTon from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/gamePlay.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/singleTon.ts.
+debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/glowing.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/glowing.ts.
+debug: Inspect file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/glowing.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/glowing.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/glowing.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/glowing.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/glowing.ts as cce:/internal/x/cc.
+debug: Resolve ./singleTon from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/glowing.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/singleTon.ts.
+debug: Resolve ./managers/soundManager from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/glowing.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/soundManager.ts.
+debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/imageLoad.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/imageLoad.ts.
+debug: Inspect file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/imageLoad.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/imageLoad.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/imageLoad.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/imageLoad.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/imageLoad.ts as cce:/internal/x/cc.
+debug: Resolve ./fitSprite from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/imageLoad.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/fitSprite.ts.
+debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/resourceUtils.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/resourceUtils.ts.
+debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/soundManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/soundManager.ts.
+debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/photoSlice2.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/photoSlice2.ts.
+debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/resourceLoader.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/resourceLoader.ts.
+debug: Inspect file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/resourceLoader.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/resourceLoader.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/resourceLoader.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/resourceLoader.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/resourceLoader.ts as cce:/internal/x/cc.
+debug: Resolve ./gamePlay from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/resourceLoader.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/gamePlay.ts.
+debug: Resolve ./glowing from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/resourceLoader.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/glowing.ts.
+debug: Resolve ./managers/soundManager from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/resourceLoader.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/soundManager.ts.
+debug: Resolve ./singleTon from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/resourceLoader.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/singleTon.ts.
+debug: Resolve ./managers/resourceUtils from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/resourceLoader.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/resourceUtils.ts.
+debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/settingMenu.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/settingMenu.ts.
+debug: Inspect file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/settingMenu.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/settingMenu.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/settingMenu.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/settingMenu.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/settingMenu.ts as cce:/internal/x/cc.
+debug: Resolve ./singleTon from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/settingMenu.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/singleTon.ts.
+debug: Resolve ./managers/soundManager from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/settingMenu.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/soundManager.ts.
+debug: Resolve ./managers/resourceUtils from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/settingMenu.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/resourceUtils.ts.
+debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/singleTon.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/singleTon.ts.
+debug: Target(editor) ends with cost 364.21354199945927ms.
 debug: Target(preview) build started.
 debug: Detected change: cce:/internal/x/cc. Last mtime: Thu Jan 01 1970 05:30:03 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:30:03 GMT+0530 (India Standard Time)
 debug: Inspect cce:/internal/x/cc
@@ -172,110 +187,127 @@ debug: Resolve cce:/internal/x/cc-fu/tween from cce:/internal/x/cc as external d
 debug: Resolve cce:/internal/x/cc-fu/ui from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/ui.
 debug: Resolve cce:/internal/x/cc-fu/video from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/video.
 debug: Resolve cce:/internal/x/cc-fu/webview from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/webview.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:30:04 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:30:04 GMT+0530 (India Standard Time)
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:15:12 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:30:04 GMT+0530 (India Standard Time)
 debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Audio.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Audio.ts.
-debug: Inspect file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Audio.ts
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Audio.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Audio.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Audio.ts as cce:/internal/x/cc.
-debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/FitSprite.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/FitSprite.ts.
-debug: Inspect file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/FitSprite.ts
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/FitSprite.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/FitSprite.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/FitSprite.ts as cce:/internal/x/cc.
-debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/GamePlay.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/GamePlay.ts.
-debug: Inspect file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/GamePlay.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/GamePlay.ts as cce:/internal/code-quality/cr.mjs.
-debug: Detected change: cce:/internal/code-quality/cr.mjs. Last mtime: Thu Dec 01 2022 13:36:41 GMT+0530 (India Standard Time), Current mtime: Thu Dec 01 2022 13:58:44 GMT+0530 (India Standard Time)
+debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/audio.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/audio.ts.
+debug: Inspect file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/audio.ts
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/audio.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/audio.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/audio.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/circularLoader.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/circularLoader.ts.
+debug: Inspect file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/circularLoader.ts
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/circularLoader.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/circularLoader.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/circularLoader.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/fitSprite.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/fitSprite.ts.
+debug: Inspect file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/fitSprite.ts
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/fitSprite.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/fitSprite.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/fitSprite.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/gamePlay.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/gamePlay.ts.
+debug: Inspect file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/gamePlay.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/gamePlay.ts as cce:/internal/code-quality/cr.mjs.
+debug: Detected change: cce:/internal/code-quality/cr.mjs. Last mtime: Fri Dec 02 2022 10:30:28 GMT+0530 (India Standard Time), Current mtime: Fri Dec 02 2022 13:27:08 GMT+0530 (India Standard Time)
 debug: Inspect cce:/internal/code-quality/cr.mjs
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/GamePlay.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/GamePlay.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/GamePlay.ts as cce:/internal/x/cc.
-debug: Resolve ./photoSlice2 from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/GamePlay.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/photoSlice2.ts.
-debug: Inspect file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/photoSlice2.ts
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/photoSlice2.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/photoSlice2.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/photoSlice2.ts as cce:/internal/x/cc.
-debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/ResourceUtils.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/ResourceUtils.ts.
-debug: Inspect file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/ResourceUtils.ts
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/ResourceUtils.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/ResourceUtils.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/ResourceUtils.ts as cce:/internal/x/cc.
-debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/SoundManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/SoundManager.ts.
-debug: Inspect file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/SoundManager.ts
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/SoundManager.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/SoundManager.ts as cce:/internal/x/cc.
-debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SettingMenu.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SettingMenu.ts.
-debug: Inspect file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SettingMenu.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SettingMenu.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SettingMenu.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SettingMenu.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SettingMenu.ts as cce:/internal/x/cc.
-debug: Resolve ./SingleTon from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SettingMenu.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SingleTon.ts.
-debug: Inspect file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SingleTon.ts
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SingleTon.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SingleTon.ts as cce:/internal/x/cc.
-debug: Resolve ./Managers/SoundManager from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SettingMenu.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/SoundManager.ts.
-debug: Resolve ./Managers/ResourceUtils from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SettingMenu.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/ResourceUtils.ts.
-debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SingleTon.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SingleTon.ts.
-debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/glowing.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/glowing.ts.
-debug: Inspect file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/glowing.ts
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/glowing.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/glowing.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/glowing.ts as cce:/internal/x/cc.
-debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/imageLoad.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/imageLoad.ts.
-debug: Inspect file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/imageLoad.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/imageLoad.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/imageLoad.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/imageLoad.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/imageLoad.ts as cce:/internal/x/cc.
-debug: Resolve ./FitSprite from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/imageLoad.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/FitSprite.ts.
-debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/photoSlice2.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/photoSlice2.ts.
-debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/resourceLoader.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/resourceLoader.ts.
-debug: Inspect file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/resourceLoader.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/resourceLoader.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/resourceLoader.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/resourceLoader.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/resourceLoader.ts as cce:/internal/x/cc.
-debug: Resolve ./GamePlay from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/resourceLoader.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/GamePlay.ts.
-debug: Resolve ./glowing from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/resourceLoader.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/glowing.ts.
-debug: Resolve ./Managers/SoundManager from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/resourceLoader.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/SoundManager.ts.
-debug: Resolve ./SingleTon from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/resourceLoader.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SingleTon.ts.
-debug: Resolve ./Managers/ResourceUtils from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/resourceLoader.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/ResourceUtils.ts.
-debug: Target(preview) ends with cost 238.45079199969769ms.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/gamePlay.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/gamePlay.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/gamePlay.ts as cce:/internal/x/cc.
+debug: Resolve ./managers/resourceUtils from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/gamePlay.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/resourceUtils.ts.
+debug: Inspect file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/resourceUtils.ts
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/resourceUtils.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/resourceUtils.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/resourceUtils.ts as cce:/internal/x/cc.
+debug: Resolve ./managers/soundManager from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/gamePlay.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/soundManager.ts.
+debug: Inspect file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/soundManager.ts
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/soundManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/soundManager.ts as cce:/internal/x/cc.
+debug: Resolve ./photoSlice2 from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/gamePlay.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/photoSlice2.ts.
+debug: Inspect file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/photoSlice2.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/photoSlice2.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/photoSlice2.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/photoSlice2.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/photoSlice2.ts as cce:/internal/x/cc.
+debug: Resolve ./singleTon from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/photoSlice2.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/singleTon.ts.
+debug: Inspect file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/singleTon.ts
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/singleTon.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/singleTon.ts as cce:/internal/x/cc.
+debug: Resolve ./managers/resourceUtils from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/photoSlice2.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/resourceUtils.ts.
+debug: Resolve ./managers/soundManager from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/photoSlice2.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/soundManager.ts.
+debug: Resolve ./singleTon from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/gamePlay.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/singleTon.ts.
+debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/glowing.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/glowing.ts.
+debug: Inspect file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/glowing.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/glowing.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/glowing.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/glowing.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/glowing.ts as cce:/internal/x/cc.
+debug: Resolve ./singleTon from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/glowing.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/singleTon.ts.
+debug: Resolve ./managers/soundManager from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/glowing.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/soundManager.ts.
+debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/imageLoad.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/imageLoad.ts.
+debug: Inspect file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/imageLoad.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/imageLoad.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/imageLoad.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/imageLoad.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/imageLoad.ts as cce:/internal/x/cc.
+debug: Resolve ./fitSprite from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/imageLoad.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/fitSprite.ts.
+debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/resourceUtils.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/resourceUtils.ts.
+debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/soundManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/soundManager.ts.
+debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/photoSlice2.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/photoSlice2.ts.
+debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/resourceLoader.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/resourceLoader.ts.
+debug: Inspect file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/resourceLoader.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/resourceLoader.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/resourceLoader.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/resourceLoader.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/resourceLoader.ts as cce:/internal/x/cc.
+debug: Resolve ./gamePlay from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/resourceLoader.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/gamePlay.ts.
+debug: Resolve ./glowing from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/resourceLoader.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/glowing.ts.
+debug: Resolve ./managers/soundManager from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/resourceLoader.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/soundManager.ts.
+debug: Resolve ./singleTon from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/resourceLoader.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/singleTon.ts.
+debug: Resolve ./managers/resourceUtils from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/resourceLoader.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/resourceUtils.ts.
+debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/settingMenu.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/settingMenu.ts.
+debug: Inspect file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/settingMenu.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/settingMenu.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/settingMenu.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/settingMenu.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/settingMenu.ts as cce:/internal/x/cc.
+debug: Resolve ./singleTon from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/settingMenu.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/singleTon.ts.
+debug: Resolve ./managers/soundManager from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/settingMenu.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/soundManager.ts.
+debug: Resolve ./managers/resourceUtils from file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/settingMenu.ts as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/resourceUtils.ts.
+debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/singleTon.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/singleTon.ts.
+debug: Target(preview) ends with cost 267.906915999949ms.
 debug: Pulling asset-db.
-debug: Fetch asset-db cost: 6.971791001036763ms.
+debug: Fetch asset-db cost: 5.311208000406623ms.
 debug: Build iteration starts.
-Number of accumulated asset changes: 11
+Number of accumulated asset changes: 12
 Feature changed: false
 debug: Target(editor) build started.
 debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:30:03 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:30:05 GMT+0530 (India Standard Time)
 debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Audio.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Audio.ts.
-debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/FitSprite.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/FitSprite.ts.
-debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/GamePlay.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/GamePlay.ts.
-debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/ResourceUtils.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/ResourceUtils.ts.
-debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/SoundManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/SoundManager.ts.
-debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SettingMenu.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SettingMenu.ts.
-debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SingleTon.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SingleTon.ts.
-debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/glowing.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/glowing.ts.
-debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/imageLoad.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/imageLoad.ts.
-debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/photoSlice2.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/photoSlice2.ts.
-debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/resourceLoader.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/resourceLoader.ts.
-debug: Target(editor) ends with cost 14.977042000740767ms.
+debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/audio.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/audio.ts.
+debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/circularLoader.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/circularLoader.ts.
+debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/fitSprite.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/fitSprite.ts.
+debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/gamePlay.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/gamePlay.ts.
+debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/glowing.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/glowing.ts.
+debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/imageLoad.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/imageLoad.ts.
+debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/resourceUtils.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/resourceUtils.ts.
+debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/soundManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/soundManager.ts.
+debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/photoSlice2.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/photoSlice2.ts.
+debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/resourceLoader.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/resourceLoader.ts.
+debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/settingMenu.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/settingMenu.ts.
+debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/singleTon.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/singleTon.ts.
+debug: Target(editor) ends with cost 13.301792001351714ms.
 debug: Target(preview) build started.
 debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:30:04 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:30:05 GMT+0530 (India Standard Time)
 debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Audio.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Audio.ts.
-debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/FitSprite.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/FitSprite.ts.
-debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/GamePlay.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/GamePlay.ts.
-debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/ResourceUtils.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/ResourceUtils.ts.
-debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/SoundManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/SoundManager.ts.
-debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SettingMenu.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SettingMenu.ts.
-debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SingleTon.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SingleTon.ts.
-debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/glowing.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/glowing.ts.
-debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/imageLoad.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/imageLoad.ts.
-debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/photoSlice2.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/photoSlice2.ts.
-debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/resourceLoader.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/resourceLoader.ts.
-debug: Target(preview) ends with cost 15.155083999037743ms.
+debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/audio.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/audio.ts.
+debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/circularLoader.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/circularLoader.ts.
+debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/fitSprite.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/fitSprite.ts.
+debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/gamePlay.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/gamePlay.ts.
+debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/glowing.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/glowing.ts.
+debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/imageLoad.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/imageLoad.ts.
+debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/resourceUtils.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/resourceUtils.ts.
+debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/soundManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/soundManager.ts.
+debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/photoSlice2.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/photoSlice2.ts.
+debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/resourceLoader.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/resourceLoader.ts.
+debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/settingMenu.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/settingMenu.ts.
+debug: Resolve file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/singleTon.ts from cce:/internal/x/prerequisite-imports as file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/singleTon.ts.
+debug: Target(preview) ends with cost 13.825542001053691ms.

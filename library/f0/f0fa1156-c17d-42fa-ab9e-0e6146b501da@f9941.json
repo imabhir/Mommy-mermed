@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "babyMermaid3",
+    "atlas": "",
+    "rect": {
+      "x": 42,
+      "y": 0,
+      "width": 490,
+      "height": 968
+    },
+    "offset": {
+      "x": 21,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 532,
+      "height": 968
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -245,
+        -484,
+        0,
+        245,
+        -484,
+        0,
+        -245,
+        484,
+        0,
+        245,
+        484,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        42,
+        968,
+        532,
+        968,
+        42,
+        0,
+        532,
+        0
+      ],
+      "nuv": [
+        0.07894736842105263,
+        0,
+        1,
+        0,
+        0.07894736842105263,
+        1,
+        1,
+        1
+      ],
+      "minPos": {
+        "x": -245,
+        "y": -484,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 245,
+        "y": 484,
+        "z": 0
+      }
+    },
+    "texture": "f0fa1156-c17d-42fa-ab9e-0e6146b501da@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

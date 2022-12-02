@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 3683.186667000875,
+      "mTimestamp": 3634.41599999927,
       "chunkId": "68d99eb2bd5ac449d443d1d23e7119c95c84ec84",
       "imports": [
         {
@@ -388,11 +388,11 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 5038.934542000294,
-      "chunkId": "08cf1b97de99ce4e9d8aefc881f776d3037827ad",
+      "mTimestamp": 5089.0682919994,
+      "chunkId": "81f8328c7be0c220fb61ce3b3d83142aaaeeda06",
       "imports": [
         {
-          "value": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Audio.ts",
+          "value": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/audio.ts",
           "resolved": "__unresolved_0",
           "loc": {
             "start": {
@@ -406,7 +406,7 @@
           }
         },
         {
-          "value": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/FitSprite.ts",
+          "value": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/circularLoader.ts",
           "resolved": "__unresolved_1",
           "loc": {
             "start": {
@@ -415,12 +415,12 @@
             },
             "end": {
               "line": 5,
-              "column": 91
+              "column": 96
             }
           }
         },
         {
-          "value": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/GamePlay.ts",
+          "value": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/fitSprite.ts",
           "resolved": "__unresolved_2",
           "loc": {
             "start": {
@@ -429,12 +429,12 @@
             },
             "end": {
               "line": 6,
-              "column": 90
+              "column": 91
             }
           }
         },
         {
-          "value": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/ResourceUtils.ts",
+          "value": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/gamePlay.ts",
           "resolved": "__unresolved_3",
           "loc": {
             "start": {
@@ -443,12 +443,12 @@
             },
             "end": {
               "line": 7,
-              "column": 104
+              "column": 90
             }
           }
         },
         {
-          "value": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/SoundManager.ts",
+          "value": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/glowing.ts",
           "resolved": "__unresolved_4",
           "loc": {
             "start": {
@@ -457,12 +457,12 @@
             },
             "end": {
               "line": 8,
-              "column": 103
+              "column": 89
             }
           }
         },
         {
-          "value": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SettingMenu.ts",
+          "value": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/imageLoad.ts",
           "resolved": "__unresolved_5",
           "loc": {
             "start": {
@@ -471,12 +471,12 @@
             },
             "end": {
               "line": 9,
-              "column": 93
+              "column": 91
             }
           }
         },
         {
-          "value": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SingleTon.ts",
+          "value": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/resourceUtils.ts",
           "resolved": "__unresolved_6",
           "loc": {
             "start": {
@@ -485,12 +485,12 @@
             },
             "end": {
               "line": 10,
-              "column": 91
+              "column": 104
             }
           }
         },
         {
-          "value": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/glowing.ts",
+          "value": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/soundManager.ts",
           "resolved": "__unresolved_7",
           "loc": {
             "start": {
@@ -499,12 +499,12 @@
             },
             "end": {
               "line": 11,
-              "column": 89
+              "column": 103
             }
           }
         },
         {
-          "value": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/imageLoad.ts",
+          "value": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/photoSlice2.ts",
           "resolved": "__unresolved_8",
           "loc": {
             "start": {
@@ -513,12 +513,12 @@
             },
             "end": {
               "line": 12,
-              "column": 91
+              "column": 93
             }
           }
         },
         {
-          "value": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/photoSlice2.ts",
+          "value": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/resourceLoader.ts",
           "resolved": "__unresolved_9",
           "loc": {
             "start": {
@@ -527,12 +527,12 @@
             },
             "end": {
               "line": 13,
-              "column": 93
+              "column": 96
             }
           }
         },
         {
-          "value": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/resourceLoader.ts",
+          "value": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/settingMenu.ts",
           "resolved": "__unresolved_10",
           "loc": {
             "start": {
@@ -541,7 +541,21 @@
             },
             "end": {
               "line": 14,
-              "column": 96
+              "column": 93
+            }
+          }
+        },
+        {
+          "value": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/singleTon.ts",
+          "resolved": "__unresolved_11",
+          "loc": {
+            "start": {
+              "line": 15,
+              "column": 7
+            },
+            "end": {
+              "line": 15,
+              "column": 91
             }
           }
         }
@@ -551,77 +565,84 @@
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Audio.ts"
+            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/audio.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/FitSprite.ts"
+            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/circularLoader.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/GamePlay.ts"
+            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/fitSprite.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/ResourceUtils.ts"
+            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/gamePlay.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/SoundManager.ts"
+            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/glowing.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SettingMenu.ts"
+            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/imageLoad.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SingleTon.ts"
+            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/resourceUtils.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/glowing.ts"
+            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/soundManager.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/imageLoad.ts"
+            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/photoSlice2.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/photoSlice2.ts"
+            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/resourceLoader.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/resourceLoader.ts"
+            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/settingMenu.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/singleTon.ts"
           },
           "messages": []
         }
@@ -816,7 +837,7 @@
       ]
     },
     "cce:/internal/code-quality/cr.mjs": {
-      "mTimestamp": 1669883324400,
+      "mTimestamp": 1669967828166,
       "chunkId": "3a1fd7b13056478820ebedd306d3446d1aa408cc",
       "imports": [],
       "type": "esm",
@@ -824,11 +845,15 @@
     },
     "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Scripts/photoSlice2.ts": {
       "mTimestamp": {
-        "mtime": 1669881422954.9355,
+        "mtime": 1669898459470.193,
         "uuid": "b3504497-51e1-4b44-81d5-cd30f037a8cc"
       },
-      "chunkId": "3ac674a49adac35f0ad806570cacbb6a85b840b5",
+      "chunkId": "26127f822cff10125caff752a803becc580e00ec",
       "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
         {
           "value": "cc"
         },
@@ -840,11 +865,53 @@
           "loc": {
             "start": {
               "line": 1,
-              "column": 226
+              "column": 237
             },
             "end": {
               "line": 1,
-              "column": 230
+              "column": 241
+            }
+          }
+        },
+        {
+          "value": "./SingleTon",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 31
+            },
+            "end": {
+              "line": 4,
+              "column": 44
+            }
+          }
+        },
+        {
+          "value": "./Managers/ResourceUtils",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 30
+            },
+            "end": {
+              "line": 6,
+              "column": 56
+            }
+          }
+        },
+        {
+          "value": "./Managers/SoundManager",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 29
+            },
+            "end": {
+              "line": 7,
+              "column": 54
             }
           }
         }
@@ -854,7 +921,7 @@
         {
           "resolved": {
             "type": "module",
-            "url": "cce:/internal/x/cc"
+            "url": "cce:/internal/code-quality/cr.mjs"
           },
           "messages": []
         },
@@ -869,6 +936,34 @@
           "resolved": {
             "type": "module",
             "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Scripts/SingleTon.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Scripts/Managers/ResourceUtils.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Scripts/Managers/SoundManager.ts"
           },
           "messages": []
         }
@@ -908,11 +1003,15 @@
     },
     "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Scripts/glowing.ts": {
       "mTimestamp": {
-        "mtime": 1669813210000,
+        "mtime": 1669894205920.833,
         "uuid": "6bc1cddb-ca61-48fd-b6d8-9f05f5ef016d"
       },
-      "chunkId": "36a77213605072b77afa7557cd8738df491179bd",
+      "chunkId": "7e389891fd264034b1f771b584f87844e5bab6bd",
       "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
         {
           "value": "cc"
         },
@@ -924,11 +1023,39 @@
           "loc": {
             "start": {
               "line": 1,
-              "column": 156
+              "column": 167
             },
             "end": {
               "line": 1,
-              "column": 160
+              "column": 171
+            }
+          }
+        },
+        {
+          "value": "./SingleTon",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 31
+            },
+            "end": {
+              "line": 3,
+              "column": 44
+            }
+          }
+        },
+        {
+          "value": "./Managers/SoundManager",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 29
+            },
+            "end": {
+              "line": 4,
+              "column": 54
             }
           }
         }
@@ -938,7 +1065,7 @@
         {
           "resolved": {
             "type": "module",
-            "url": "cce:/internal/x/cc"
+            "url": "cce:/internal/code-quality/cr.mjs"
           },
           "messages": []
         },
@@ -953,6 +1080,27 @@
           "resolved": {
             "type": "module",
             "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Scripts/SingleTon.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Scripts/Managers/SoundManager.ts"
           },
           "messages": []
         }
@@ -1044,10 +1192,10 @@
     },
     "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Scripts/resourceLoader.ts": {
       "mTimestamp": {
-        "mtime": 1669881247519.6711,
+        "mtime": 1669899512687.4114,
         "uuid": "86341792-a74d-4d16-bb24-4141b248e199"
       },
-      "chunkId": "deebd7b7f68e5b5357773d0eadd434a2873d47f1",
+      "chunkId": "0ba804549ff5633ff38d3e7b976f4ea3e5392458",
       "imports": [
         {
           "value": "cce:/internal/code-quality/cr.mjs",
@@ -1348,10 +1496,10 @@
     },
     "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Scripts/Managers/SoundManager.ts": {
       "mTimestamp": {
-        "mtime": 1669869507722.6367,
+        "mtime": 1669895713868.1553,
         "uuid": "12303d40-7993-4bda-8bbf-33bdaa5ad2ec"
       },
-      "chunkId": "d57ec8911f4a4efa0b71c4e5053fabac243accd8",
+      "chunkId": "f226479da3db3b42d63036ed32059effd052318b",
       "imports": [
         {
           "value": "cc"
@@ -1504,12 +1652,168 @@
         }
       ]
     },
-    "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Audio.ts": {
+    "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Scripts/Managers/NewComponent.ts": {
+      "mTimestamp": {
+        "mtime": 1669885881392.6404,
+        "uuid": "a3b34be1-7641-4c84-a3fb-8611b1ced35e"
+      },
+      "chunkId": "83ca8d9e79612e6b2819e2a40a4eb1ce9eacc6ac",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Scripts/Managers/CircularLoader.ts": {
+      "mTimestamp": {
+        "mtime": 1669885920321.5557,
+        "uuid": "32bfc37f-67f4-4eb7-94ce-4e04500d4584"
+      },
+      "chunkId": "a75c44b746d9ac5b55c3a165ad64217bc2b6e895",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/Scripts/CircularLoader.ts": {
+      "mTimestamp": {
+        "mtime": 1669886181311.0073,
+        "uuid": "32bfc37f-67f4-4eb7-94ce-4e04500d4584"
+      },
+      "chunkId": "0fb35e8d947ad1c257b72cff76425a4c2c75358e",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 76
+            },
+            "end": {
+              "line": 1,
+              "column": 80
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/scripts/Audio.ts": {
       "mTimestamp": {
         "mtime": 1669813210000,
         "uuid": "6a8f40a3-b13b-4e51-aa56-cc82edf81816"
       },
-      "chunkId": "bee0b39b87952bd6414132dbea1a4eb9a6676d3d",
+      "chunkId": "86170d543f0a10c5290af32ef5b982ab8748d0ac",
       "imports": [
         {
           "value": "cc"
@@ -1556,16 +1860,62 @@
         }
       ]
     },
-    "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/FitSprite.ts": {
+    "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/scripts/CircularLoader.ts": {
       "mTimestamp": {
-        "mtime": 1669813210000,
-        "uuid": "5054825c-5d30-491b-a68c-95c6ea574044"
+        "mtime": 1669886181311.0073,
+        "uuid": "32bfc37f-67f4-4eb7-94ce-4e04500d4584"
       },
-      "chunkId": "c0d21b493bb6438ae803c2f438d090b01012185c",
+      "chunkId": "0d7fbb020cb285fb8a1aa9b6f62b84b5b7e6421e",
       "imports": [
         {
           "value": "cc"
         },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 76
+            },
+            "end": {
+              "line": 1,
+              "column": 80
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/scripts/FitSprite.ts": {
+      "mTimestamp": 1669813210000,
+      "chunkId": "a24371108126307d66fb1d2ee141913c84ca529b",
+      "imports": [
         {
           "value": "cc"
         },
@@ -1598,29 +1948,16 @@
             "url": "cce:/internal/x/cc"
           },
           "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
         }
       ]
     },
-    "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/GamePlay.ts": {
-      "mTimestamp": {
-        "mtime": 1669877555305.3008,
-        "uuid": "fcf2f319-1d02-40d7-b64e-a005f85650e0"
-      },
-      "chunkId": "c78fb78bf5b50226a04a63d9faf9e504733f1021",
+    "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/scripts/GamePlay.ts": {
+      "mTimestamp": 1669877555305.3008,
+      "chunkId": "33138291335c6f9dc49c4d58246ef640f2bd4086",
       "imports": [
         {
           "value": "cce:/internal/code-quality/cr.mjs",
           "resolved": "__unresolved_0"
-        },
-        {
-          "value": "cc"
         },
         {
           "value": "cc"
@@ -1679,26 +2016,23 @@
         {
           "resolved": {
             "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/photoSlice2.ts"
+            "url": "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/scripts/photoSlice2.ts"
           },
           "messages": []
         }
       ]
     },
-    "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/photoSlice2.ts": {
+    "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/scripts/photoSlice2.ts": {
       "mTimestamp": {
-        "mtime": 1669881422954.9355,
+        "mtime": 1669962098471.4448,
         "uuid": "b3504497-51e1-4b44-81d5-cd30f037a8cc"
       },
-      "chunkId": "b8a785885404fbbfa2dafd0f19129ab6d091f39f",
+      "chunkId": "3251f6b56c6ff2f03f9295a7b8aeee81bf3993fa",
       "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
         {
           "value": "cc"
         },
@@ -1710,13 +2044,116 @@
           "loc": {
             "start": {
               "line": 1,
-              "column": 226
+              "column": 237
             },
             "end": {
               "line": 1,
-              "column": 230
+              "column": 241
             }
           }
+        },
+        {
+          "value": "./singleTon",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 31
+            },
+            "end": {
+              "line": 4,
+              "column": 44
+            }
+          }
+        },
+        {
+          "value": "./managers/resourceUtils",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 30
+            },
+            "end": {
+              "line": 6,
+              "column": 56
+            }
+          }
+        },
+        {
+          "value": "./managers/soundManager",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 29
+            },
+            "end": {
+              "line": 7,
+              "column": 54
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/scripts/singleTon.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/scripts/managers/resourceUtils.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/scripts/managers/soundManager.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/scripts/SingleTon.ts": {
+      "mTimestamp": 1669957967984.388,
+      "chunkId": "984a3f8e9f76336ad8584a8ccb85364bc0b44b83",
+      "imports": [
+        {
+          "value": "cc"
         }
       ],
       "type": "esm",
@@ -1727,33 +2164,13 @@
             "url": "cce:/internal/x/cc"
           },
           "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
         }
       ]
     },
-    "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/ResourceUtils.ts": {
-      "mTimestamp": {
-        "mtime": 1669872384455.1033,
-        "uuid": "e0c1ab15-4a0c-4a9e-8299-08545f12ce2d"
-      },
-      "chunkId": "fa1f2d1c89f0a36cb627b96cd2a0466dc2fb4a98",
+    "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/scripts/Managers/ResourceUtils.ts": {
+      "mTimestamp": 1669872384455.1033,
+      "chunkId": "2537e3a087fa098e57c96c5143d66b07aa81c057",
       "imports": [
-        {
-          "value": "cc"
-        },
         {
           "value": "cc"
         },
@@ -1786,26 +2203,13 @@
             "url": "cce:/internal/x/cc"
           },
           "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
         }
       ]
     },
-    "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/SoundManager.ts": {
-      "mTimestamp": {
-        "mtime": 1669869507722.6367,
-        "uuid": "12303d40-7993-4bda-8bbf-33bdaa5ad2ec"
-      },
-      "chunkId": "935fd602778a54fb3abe38eff8f5deb678b3d7d5",
+    "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/scripts/Managers/SoundManager.ts": {
+      "mTimestamp": 1669895713868.1553,
+      "chunkId": "daaa75639fbf838c82ab26d176bd9eec2752a94a",
       "imports": [
-        {
-          "value": "cc"
-        },
         {
           "value": "cc"
         }
@@ -1818,22 +2222,15 @@
             "url": "cce:/internal/x/cc"
           },
           "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
         }
       ]
     },
-    "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SettingMenu.ts": {
+    "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/scripts/SettingMenu.ts": {
       "mTimestamp": {
         "mtime": 1669873347485.2532,
         "uuid": "ec80540e-7f90-490f-8646-ebb9dd9df4aa"
       },
-      "chunkId": "d80b94f2d66bc637c80fa44c7773b71aaaab59be",
+      "chunkId": "bf800e3fdddbb8e118daabf158a9d71ebd211627",
       "imports": [
         {
           "value": "cce:/internal/code-quality/cr.mjs",
@@ -1934,65 +2331,37 @@
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SingleTon.ts"
+            "url": "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/scripts/SingleTon.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/SoundManager.ts"
+            "url": "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/scripts/Managers/SoundManager.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/ResourceUtils.ts"
+            "url": "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/scripts/Managers/ResourceUtils.ts"
           },
           "messages": []
         }
       ]
     },
-    "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SingleTon.ts": {
+    "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/scripts/glowing.ts": {
       "mTimestamp": {
-        "mtime": 1669874513405.547,
-        "uuid": "7ab67661-9e11-4306-949f-ad2910badf3a"
-      },
-      "chunkId": "2afd237690a1b12b0f24cce1e93fa265b7ba4e94",
-      "imports": [
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc"
-        }
-      ],
-      "type": "esm",
-      "resolutions": [
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        }
-      ]
-    },
-    "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/glowing.ts": {
-      "mTimestamp": {
-        "mtime": 1669813210000,
+        "mtime": 1669958232039.9417,
         "uuid": "6bc1cddb-ca61-48fd-b6d8-9f05f5ef016d"
       },
-      "chunkId": "94da4b61b1e56c70f94f21fca9d57fb4f14b486e",
+      "chunkId": "731c17f577463e9a677a8ca4ef8ed632266f1018",
       "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
         {
           "value": "cc"
         },
@@ -2004,11 +2373,39 @@
           "loc": {
             "start": {
               "line": 1,
-              "column": 156
+              "column": 167
             },
             "end": {
               "line": 1,
-              "column": 160
+              "column": 171
+            }
+          }
+        },
+        {
+          "value": "./singleTon",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 31
+            },
+            "end": {
+              "line": 3,
+              "column": 44
+            }
+          }
+        },
+        {
+          "value": "./managers/soundManager",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 29
+            },
+            "end": {
+              "line": 4,
+              "column": 54
             }
           }
         }
@@ -2018,7 +2415,7 @@
         {
           "resolved": {
             "type": "module",
-            "url": "cce:/internal/x/cc"
+            "url": "cce:/internal/code-quality/cr.mjs"
           },
           "messages": []
         },
@@ -2033,17 +2430,38 @@
           "resolved": {
             "type": "module",
             "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/scripts/singleTon.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/scripts/managers/soundManager.ts"
           },
           "messages": []
         }
       ]
     },
-    "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/imageLoad.ts": {
+    "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/scripts/imageLoad.ts": {
       "mTimestamp": {
-        "mtime": 1669813210000,
+        "mtime": 1669958537642.1865,
         "uuid": "43e55812-e379-4cd1-8b5d-12e153a75f5e"
       },
-      "chunkId": "a24d16dde4e5edeeb6aa096a9cd97e3cc716076c",
+      "chunkId": "2a2574f839f4d5d081924b52966af9ae6bc4c0c4",
       "imports": [
         {
           "value": "cce:/internal/code-quality/cr.mjs",
@@ -2069,7 +2487,7 @@
           }
         },
         {
-          "value": "./FitSprite",
+          "value": "./fitSprite",
           "resolved": "__unresolved_1",
           "loc": {
             "start": {
@@ -2116,18 +2534,18 @@
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/FitSprite.ts"
+            "url": "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/scripts/fitSprite.ts"
           },
           "messages": []
         }
       ]
     },
-    "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/resourceLoader.ts": {
+    "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/scripts/resourceLoader.ts": {
       "mTimestamp": {
-        "mtime": 1669881247519.6711,
+        "mtime": 1669967132721.326,
         "uuid": "86341792-a74d-4d16-bb24-4141b248e199"
       },
-      "chunkId": "a2be131a0cc9af4043da4b26c5f1a5a70611ac42",
+      "chunkId": "da7661d97e68e5039f9feb1352816afc912852a0",
       "imports": [
         {
           "value": "cce:/internal/code-quality/cr.mjs",
@@ -2153,7 +2571,7 @@
           }
         },
         {
-          "value": "./GamePlay",
+          "value": "./gamePlay",
           "resolved": "__unresolved_1",
           "loc": {
             "start": {
@@ -2181,7 +2599,7 @@
           }
         },
         {
-          "value": "./Managers/SoundManager",
+          "value": "./managers/soundManager",
           "resolved": "__unresolved_3",
           "loc": {
             "start": {
@@ -2195,7 +2613,7 @@
           }
         },
         {
-          "value": "./SingleTon",
+          "value": "./singleTon",
           "resolved": "__unresolved_4",
           "loc": {
             "start": {
@@ -2209,7 +2627,7 @@
           }
         },
         {
-          "value": "./Managers/ResourceUtils",
+          "value": "./managers/resourceUtils",
           "resolved": "__unresolved_5",
           "loc": {
             "start": {
@@ -2256,35 +2674,1692 @@
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/GamePlay.ts"
+            "url": "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/scripts/gamePlay.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/glowing.ts"
+            "url": "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/scripts/glowing.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/SoundManager.ts"
+            "url": "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/scripts/managers/soundManager.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/SingleTon.ts"
+            "url": "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/scripts/singleTon.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/Scripts/Managers/ResourceUtils.ts"
+            "url": "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/scripts/managers/resourceUtils.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/scripts/managers/ResourceUtils.ts": {
+      "mTimestamp": {
+        "mtime": 1669872384455.1033,
+        "uuid": "e0c1ab15-4a0c-4a9e-8299-08545f12ce2d"
+      },
+      "chunkId": "a3dd521391ca135e889dd74123a893e82bd57d96",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 106
+            },
+            "end": {
+              "line": 1,
+              "column": 110
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/scripts/managers/SoundManager.ts": {
+      "mTimestamp": {
+        "mtime": 1669895713868.1553,
+        "uuid": "12303d40-7993-4bda-8bbf-33bdaa5ad2ec"
+      },
+      "chunkId": "fd71ced7912901e2219af5f42ac0820ad36f70a8",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/scripts/managers/resourceUtils.ts": {
+      "mTimestamp": {
+        "mtime": 1669958552893.1301,
+        "uuid": "e0c1ab15-4a0c-4a9e-8299-08545f12ce2d"
+      },
+      "chunkId": "896ed92140249726aba8d70d4f634247349919e6",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 106
+            },
+            "end": {
+              "line": 1,
+              "column": 110
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/scripts/managers/soundManager.ts": {
+      "mTimestamp": {
+        "mtime": 1669895713868.1553,
+        "uuid": "12303d40-7993-4bda-8bbf-33bdaa5ad2ec"
+      },
+      "chunkId": "14657a7d5db09a1dd1f301cd0d2b6028b2fd8072",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/scripts/audio.ts": {
+      "mTimestamp": {
+        "mtime": 1669813210000,
+        "uuid": "6a8f40a3-b13b-4e51-aa56-cc82edf81816"
+      },
+      "chunkId": "4a95441f6824f5708688f971cb746db44cc187dd",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 57
+            },
+            "end": {
+              "line": 1,
+              "column": 61
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/scripts/circularLoader.ts": {
+      "mTimestamp": {
+        "mtime": 1669886181311.0073,
+        "uuid": "32bfc37f-67f4-4eb7-94ce-4e04500d4584"
+      },
+      "chunkId": "640a12693e7bab67dbe3302f84a0a615cfe4746d",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 76
+            },
+            "end": {
+              "line": 1,
+              "column": 80
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/scripts/fitSprite.ts": {
+      "mTimestamp": {
+        "mtime": 1669813210000,
+        "uuid": "5054825c-5d30-491b-a68c-95c6ea574044"
+      },
+      "chunkId": "fbb11894605db8f596d94cc95768a16a7eb59b30",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 121
+            },
+            "end": {
+              "line": 1,
+              "column": 125
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/scripts/gamePlay.ts": {
+      "mTimestamp": {
+        "mtime": 1669967068257.6365,
+        "uuid": "fcf2f319-1d02-40d7-b64e-a005f85650e0"
+      },
+      "chunkId": "66689b07dcb9d907ea1d38bda0ee264d167f128b",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 165
+            },
+            "end": {
+              "line": 1,
+              "column": 169
+            }
+          }
+        },
+        {
+          "value": "./managers/resourceUtils",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 30
+            },
+            "end": {
+              "line": 2,
+              "column": 56
+            }
+          }
+        },
+        {
+          "value": "./managers/soundManager",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 29
+            },
+            "end": {
+              "line": 3,
+              "column": 54
+            }
+          }
+        },
+        {
+          "value": "./photoSlice2",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 28
+            },
+            "end": {
+              "line": 5,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "./singleTon",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 31
+            },
+            "end": {
+              "line": 6,
+              "column": 44
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/scripts/managers/resourceUtils.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/scripts/managers/soundManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/scripts/photoSlice2.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/scripts/singleTon.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/scripts/settingMenu.ts": {
+      "mTimestamp": {
+        "mtime": 1669958520039.337,
+        "uuid": "ec80540e-7f90-490f-8646-ebb9dd9df4aa"
+      },
+      "chunkId": "ce7a2086f592c825aeace23c388255d138054830",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 105
+            },
+            "end": {
+              "line": 2,
+              "column": 109
+            }
+          }
+        },
+        {
+          "value": "./singleTon",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 31
+            },
+            "end": {
+              "line": 3,
+              "column": 44
+            }
+          }
+        },
+        {
+          "value": "./managers/soundManager",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 29
+            },
+            "end": {
+              "line": 5,
+              "column": 54
+            }
+          }
+        },
+        {
+          "value": "./managers/resourceUtils",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 30
+            },
+            "end": {
+              "line": 6,
+              "column": 56
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/scripts/singleTon.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/scripts/managers/soundManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/scripts/managers/resourceUtils.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/abhishekrawat/Desktop/ImageSlicerViewer-sliceAnim/assets/scripts/singleTon.ts": {
+      "mTimestamp": {
+        "mtime": 1669957967984.388,
+        "uuid": "7ab67661-9e11-4306-949f-ad2910badf3a"
+      },
+      "chunkId": "a6eeaa097d4138779680ae6bc58061e8afb0e0cd",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/audio.ts": {
+      "mTimestamp": {
+        "mtime": 1669813210000,
+        "uuid": "6a8f40a3-b13b-4e51-aa56-cc82edf81816"
+      },
+      "chunkId": "cd4068eda6c4a3bb789e3906f4b6f3debc162a3e",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 57
+            },
+            "end": {
+              "line": 1,
+              "column": 61
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/circularLoader.ts": {
+      "mTimestamp": {
+        "mtime": 1669886181311.0073,
+        "uuid": "32bfc37f-67f4-4eb7-94ce-4e04500d4584"
+      },
+      "chunkId": "98137545635d92894d6b5171ed167a662ac87712",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 76
+            },
+            "end": {
+              "line": 1,
+              "column": 80
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/fitSprite.ts": {
+      "mTimestamp": {
+        "mtime": 1669813210000,
+        "uuid": "5054825c-5d30-491b-a68c-95c6ea574044"
+      },
+      "chunkId": "04bf8c1b3c081b5d8f2e83b52c9e364a9c76cb35",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 121
+            },
+            "end": {
+              "line": 1,
+              "column": 125
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/gamePlay.ts": {
+      "mTimestamp": {
+        "mtime": 1669967068257.6365,
+        "uuid": "fcf2f319-1d02-40d7-b64e-a005f85650e0"
+      },
+      "chunkId": "cfd2eeac4c27ca2baa0a31b220d05ea08eee11b2",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 165
+            },
+            "end": {
+              "line": 1,
+              "column": 169
+            }
+          }
+        },
+        {
+          "value": "./managers/resourceUtils",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 30
+            },
+            "end": {
+              "line": 2,
+              "column": 56
+            }
+          }
+        },
+        {
+          "value": "./managers/soundManager",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 29
+            },
+            "end": {
+              "line": 3,
+              "column": 54
+            }
+          }
+        },
+        {
+          "value": "./photoSlice2",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 28
+            },
+            "end": {
+              "line": 5,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "./singleTon",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 31
+            },
+            "end": {
+              "line": 6,
+              "column": 44
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/resourceUtils.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/soundManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/photoSlice2.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/singleTon.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/resourceUtils.ts": {
+      "mTimestamp": {
+        "mtime": 1669958552893.1301,
+        "uuid": "e0c1ab15-4a0c-4a9e-8299-08545f12ce2d"
+      },
+      "chunkId": "e1735551586c97bc49d95d60b94c6dd8c8cbb035",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 106
+            },
+            "end": {
+              "line": 1,
+              "column": 110
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/soundManager.ts": {
+      "mTimestamp": {
+        "mtime": 1669895713868.1553,
+        "uuid": "12303d40-7993-4bda-8bbf-33bdaa5ad2ec"
+      },
+      "chunkId": "ae08105a42a543c58c9cf067ebfe8e8d2dd35537",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/photoSlice2.ts": {
+      "mTimestamp": {
+        "mtime": 1669962098471.4448,
+        "uuid": "b3504497-51e1-4b44-81d5-cd30f037a8cc"
+      },
+      "chunkId": "9328ca9e7f0ccf98a80de46396ef3146ef102718",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 237
+            },
+            "end": {
+              "line": 1,
+              "column": 241
+            }
+          }
+        },
+        {
+          "value": "./singleTon",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 31
+            },
+            "end": {
+              "line": 4,
+              "column": 44
+            }
+          }
+        },
+        {
+          "value": "./managers/resourceUtils",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 30
+            },
+            "end": {
+              "line": 6,
+              "column": 56
+            }
+          }
+        },
+        {
+          "value": "./managers/soundManager",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 29
+            },
+            "end": {
+              "line": 7,
+              "column": 54
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/singleTon.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/resourceUtils.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/soundManager.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/singleTon.ts": {
+      "mTimestamp": {
+        "mtime": 1669957967984.388,
+        "uuid": "7ab67661-9e11-4306-949f-ad2910badf3a"
+      },
+      "chunkId": "15446e24b75416cf66ac64d9718459b86892d908",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/glowing.ts": {
+      "mTimestamp": {
+        "mtime": 1669958232039.9417,
+        "uuid": "6bc1cddb-ca61-48fd-b6d8-9f05f5ef016d"
+      },
+      "chunkId": "02f3ee3b8d340f0eb65df0d3c3032a61035f2d69",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 167
+            },
+            "end": {
+              "line": 1,
+              "column": 171
+            }
+          }
+        },
+        {
+          "value": "./singleTon",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 31
+            },
+            "end": {
+              "line": 3,
+              "column": 44
+            }
+          }
+        },
+        {
+          "value": "./managers/soundManager",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 29
+            },
+            "end": {
+              "line": 4,
+              "column": 54
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/singleTon.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/soundManager.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/imageLoad.ts": {
+      "mTimestamp": {
+        "mtime": 1669958537642.1865,
+        "uuid": "43e55812-e379-4cd1-8b5d-12e153a75f5e"
+      },
+      "chunkId": "2102d6db737aad096114ae2e0d2263f3a8e44cb4",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 148
+            },
+            "end": {
+              "line": 1,
+              "column": 152
+            }
+          }
+        },
+        {
+          "value": "./fitSprite",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 26
+            },
+            "end": {
+              "line": 2,
+              "column": 39
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/fitSprite.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/resourceLoader.ts": {
+      "mTimestamp": {
+        "mtime": 1669967132721.326,
+        "uuid": "86341792-a74d-4d16-bb24-4141b248e199"
+      },
+      "chunkId": "19847c5f310aa17307d77baedcf16107ff4ecf21",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 223
+            },
+            "end": {
+              "line": 1,
+              "column": 227
+            }
+          }
+        },
+        {
+          "value": "./gamePlay",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 25
+            },
+            "end": {
+              "line": 2,
+              "column": 37
+            }
+          }
+        },
+        {
+          "value": "./glowing",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 24
+            },
+            "end": {
+              "line": 3,
+              "column": 35
+            }
+          }
+        },
+        {
+          "value": "./managers/soundManager",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 29
+            },
+            "end": {
+              "line": 4,
+              "column": 54
+            }
+          }
+        },
+        {
+          "value": "./singleTon",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 31
+            },
+            "end": {
+              "line": 5,
+              "column": 44
+            }
+          }
+        },
+        {
+          "value": "./managers/resourceUtils",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 30
+            },
+            "end": {
+              "line": 6,
+              "column": 56
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/gamePlay.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/glowing.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/soundManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/singleTon.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/resourceUtils.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/settingMenu.ts": {
+      "mTimestamp": {
+        "mtime": 1669958520039.337,
+        "uuid": "ec80540e-7f90-490f-8646-ebb9dd9df4aa"
+      },
+      "chunkId": "2d864ac0794a63e58aafdca63593ffce8d3fe620",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 105
+            },
+            "end": {
+              "line": 2,
+              "column": 109
+            }
+          }
+        },
+        {
+          "value": "./singleTon",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 31
+            },
+            "end": {
+              "line": 3,
+              "column": 44
+            }
+          }
+        },
+        {
+          "value": "./managers/soundManager",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 29
+            },
+            "end": {
+              "line": 5,
+              "column": 54
+            }
+          }
+        },
+        {
+          "value": "./managers/resourceUtils",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 30
+            },
+            "end": {
+              "line": 6,
+              "column": 56
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/singleTon.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/soundManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/abhishekrawat/Documents/Git/Mommy-mermed/assets/scripts/managers/resourceUtils.ts"
           },
           "messages": []
         }
